@@ -8,6 +8,19 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    
+    
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="js/epoch.min.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/epoch.js"></script>
+    <script src="js/data.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/epoch.min.css">
+
+
+	
+    
   </head>
   <body>
     <section class="page-header">
@@ -32,6 +45,24 @@ College of Communication Arts and Sciences
 Michigan State University </p>
 
 <p>Email: schmaelzATmsu.edu</p>
+      
+<div id="real-time-line" class="epoch" style="height: 200px"></div>
+
+<script>
+$(function() {
+    var data = new RealTimeData(2);
+
+    var chart = $('#real-time-line').epoch({
+        type: 'time.line',
+        data: data.history(),
+        axes: []
+    });
+
+    setInterval(function() { chart.push(data.next()); }, 1000);
+    chart.push(data.next());
+});
+</script>
+
 
       <footer class="site-footer">
 
@@ -40,6 +71,8 @@ Michigan State University </p>
 
     </section>
 
+    
+    
   
   </body>
 </html>
