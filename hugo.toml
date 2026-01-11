@@ -9,10 +9,11 @@ theme = 'PaperMod'
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About / CV"
-    url = "/"
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
     weight = 10
+
   [[menu.main]]
     identifier = "publications"
     name = "Publications"

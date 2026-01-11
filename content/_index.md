@@ -4,10 +4,10 @@ description: "Ph.D. / Assoc. Prof. - Michigan State University"
 hidemeta: true
 ---
 
-**Ralf Schmälzle, Ph.D. / Assoc. Prof.** (. رالف)
+**Ralf Schmälzle, Ph.D. / Assoc. Prof.** 
 
 *   Director, **Neuroscience of Messages Lab**
-*   Center for Avatar Research and Immersive Social Media Applications (**Carismalab**)
+*   Co-Director, Center for Avatar Research and Immersive Social Media Applications (**Carismalab**)
 *   Department of Communication
 *   **Michigan State University**
 
