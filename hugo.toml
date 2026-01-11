@@ -1,0 +1,20 @@
+baseURL = 'https://ralfschmaelzle.net/'
+languageCode = 'en-us'
+title = 'Ralf Schmaelzle'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "light" # Keeps it professional (no dark mode toggle flickering)
+  description = "Professor & Researcher"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About / CV"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 20
