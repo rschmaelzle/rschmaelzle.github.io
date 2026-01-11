@@ -6,8 +6,9 @@ hidemeta: true
 
 **Ralf Schmälzle, Ph.D. / Assoc. Prof.** 
 
-*   Director, **Neuroscience of Messages Lab**
-*   Co-Director, Center for Avatar Research and Immersive Social Media Applications (**Carismalab**)
+*   Neuroscience of Messages Lab (**NOMLab**)
+*   Center for Avatar Research and Immersive Social Media Applications (**Carismalab**)
+*   Communication, Attention and the Science of Emotions Lab (**CASE Lab**)
 *   Department of Communication
 *   **Michigan State University**
 
