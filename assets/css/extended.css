@@ -1,0 +1,52 @@
+/* Accordion Styling */
+details.accordion {
+    margin-bottom: 1rem;
+    border: 1px solid var(--border); /* Matches theme border */
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--entry); /* Matches theme background */
+}
+
+summary.accordion-header {
+    background-color: rgba(0, 0, 0, 0.05); /* Light Grey header */
+    padding: 15px 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between; /* Pushes icon to the right */
+    align-items: center;
+    list-style: none; /* Hides default triangle */
+    transition: background 0.2s;
+}
+
+/* Dark mode adjustment for the header */
+html.dark summary.accordion-header {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+summary.accordion-header:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+html.dark summary.accordion-header:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Hide default marker in Safari/Chrome */
+summary.accordion-header::-webkit-details-marker {
+    display: none;
+}
+
+/* The Content Box */
+.accordion-content {
+    padding: 20px;
+    border-top: 1px solid var(--border);
+}
+
+/* The Plus/Minus Icon Logic */
+details[open] summary .icon {
+    transform: rotate(45deg); /* Turns + into x */
+}
+summary .icon {
+    font-weight: bold;
+    font-size: 1.2rem;
+    transition: transform 0.2s;
+}

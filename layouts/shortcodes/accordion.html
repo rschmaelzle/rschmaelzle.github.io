@@ -1,0 +1,9 @@
+<details class="accordion">
+    <summary class="accordion-header">
+        <strong>{{ .Get "title" }}</strong>
+        <span class="icon">+</span>
+    </summary>
+    <div class="accordion-content">
+        {{ .Inner | markdownify }}
+    </div>
+</details>
