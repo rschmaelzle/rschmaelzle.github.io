@@ -1,31 +1,77 @@
 ---
-title: "Ralf Schmälzle"
-description: "Ph.D. / Assoc. Prof. - Michigan State University"
+title: "Ralf Schmaelzle"
 hidemeta: true
+layout: "full" 
 ---
 
-**Ralf Schmälzle, Ph.D. / Assoc. Prof.** 
+<div class="gateway-container">
 
-*   Neuroscience of Messages Lab (**NOMLab**)
-*   Center for Avatar Research and Immersive Social Media Applications (**Carismalab**)
-*   Communication, Attention and the Science of Emotions Lab (**CASE Lab**)
-*   Department of Communication
-*   **Michigan State University**
+  <!-- THE SUIT (Left Side) -->
+  <div class="gateway-box suit-side">
+    <img src="https://via.placeholder.com/300x300/dddddd/333333?text=The+Academic" alt="Professional" class="gateway-img">
+    <h2>The Academic</h2>
+    <p>Associate Professor<br>Michigan State University</p>
+    
+    <div class="gateway-links">
+        <a href="/cv/">Curriculum Vitae &rarr;</a>
+        <a href="/publications/">Publications &rarr;</a>
+    </div>
+  </div>
 
----
+  <!-- THE HOODIE (Right Side) -->
+  <div class="gateway-box hoodie-side">
+    <img src="https://via.placeholder.com/300x300/111111/eeeeee?text=The+Creator" alt="Creative" class="gateway-img">
+    <h2>Studio Evergreen</h2>
+    <p>Digital Atelier<br>Code, Fiction & VR</p>
+    
+    <div class="gateway-links">
+        <a href="/studio/">Enter The Studio &rarr;</a>
+    </div>
+  </div>
 
-### Welcome!
+</div>
 
-I study **communication neuroscience**. This involves a radically interdisciplinary approach that integrates theories from communication science, cognitive neuroscience, and psychology.
-
-My goal is to find out how the human brain responds to messages and how brain activity relates to message effects. Much of my work focuses on:
-
-1.  **Media Neuroscience and Mass Communication**
-    *   *(e.g.: How do mass media collectively engage the brains of audience members? How do we respond to movies and stories?)*
-
-2.  **Neuroimaging of Health and Risk Communication**
-    *   *(e.g.: Can we predict whether a message will work and for whom? Can we detect neural signatures of attention, personal relevance, or affective evaluation?)*
-
-Two cross-cutting themes that play a large role in my current work are **Virtual Reality** – the communication medium of the future – and **Artificial Intelligence** – the quest to build machines that can think, act, and communicate like humans.
-
-Thanks for your interest in my work, and for visiting this site.
+<!-- CSS for the Gateway (Paste this directly into the markdown file at the bottom) -->
+<style>
+.gateway-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.gateway-box {
+    flex: 1;
+    min-width: 300px;
+    padding: 2rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.2s;
+}
+.gateway-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+.gateway-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%; /* Circle Image */
+    margin-bottom: 1rem;
+    border: 3px solid var(--primary);
+}
+.suit-side { background: var(--entry); }
+.hoodie-side { 
+    background: #1a1a1a; 
+    color: #fff; 
+}
+.hoodie-side a { color: #4db6ac; } /* Teal links for contrast */
+.gateway-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+    font-weight: bold;
+}
+</style>
