@@ -1,56 +1,52 @@
 <!-- 1. The Data Source -->
 <bibtex src="{{ .Get "src" }}"></bibtex>
 
-<!-- 2. HIDDEN CONTROLS (This forces the sorting) -->
-<div class="bibtex_controls" style="display: none;">
-    <!-- Force Sort by Year -->
-    <select class="bibtex_sort">
-        <option value="year" selected="selected">Year</option>
-    </select>
-    <!-- Force Descending Order (Newest First) -->
-    <select class="bibtex_order">
-        <option value="desc" selected="selected">Desc</option>
-    </select>
-</div>
-
-<!-- 3. The Output Display -->
+<!-- 2. The Display Area -->
 <div id="bibtex_display">
-    
-    <!-- The Template for each entry -->
-    <div class="bibtex_template" style="display: none;">
-        
-        <!-- Individual Card Style -->
-        <div style="margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #eee;">
+
+    <!-- THE STRUCTURE (Forces Year Sorting) -->
+    <div class="bibtex_structure">
+        <!-- sort="desc" forces 2025 to be at the top -->
+        <div class="group year" sort="desc" style="margin-bottom: 40px;">
             
-            <!-- Title -->
-            <div style="font-size: 1.1rem; font-weight: bold; margin-bottom: 5px; color: var(--primary);">
+            <!-- The Year Heading -->
+            <h3 style="border-bottom: 2px solid #ddd; margin-bottom: 20px; color: var(--primary);">
+                <i class="fas fa-calendar-alt"></i> 
+                <!-- The JS inserts the year here automatically -->
+            </h3>
+            
+            <!-- CRITICAL: This is where the papers for that year get injected -->
+            <div class="templates"></div>
+        
+        </div>
+    </div>
+
+    <!-- THE TEMPLATE (How one paper looks) -->
+    <div class="bibtex_template" style="display: none;">
+        <div style="margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px dashed #eee;">
+            
+            <div style="font-size: 1.1rem; font-weight: bold; margin-bottom: 5px;">
                 <span class="title"></span>
             </div>
             
-            <!-- Author & Year -->
-            <div style="font-size: 1rem; margin-bottom: 5px;">
-                <span class="author"></span> 
-                (<span class="year" style="font-weight: 800;"></span>)
+            <div style="font-size: 1rem; color: #444;">
+                <span class="author"></span>
             </div>
             
-            <!-- Journal -->
             <div style="font-style: italic; color: #666; margin-bottom: 8px;">
                 <span class="journal"></span> <span class="booktitle"></span>
             </div>
 
             <!-- Links -->
-            <div style="font-size: 0.85rem; text-transform: uppercase; font-weight: bold;">
+            <div style="font-size: 0.85rem; font-weight: bold;">
                 <span class="if url" style="margin-right: 10px;"> 
-                    <a class="url" href="#" target="_blank" style="text-decoration: none;">[Link]</a> 
+                    [<a class="url" href="#" target="_blank">LINK</a>] 
                 </span>
                 <span class="if pdf" style="margin-right: 10px;"> 
-                    <a class="pdf" href="#" target="_blank" style="text-decoration: none;">[PDF]</a> 
+                    [<a class="pdf" href="#" target="_blank">PDF</a>] 
                 </span>
                 <span class="if doi" style="margin-right: 10px;"> 
-                    <a class="doi" href="#" target="_blank" style="text-decoration: none;">[DOI]</a> 
-                </span>
-                <span class="if code"> 
-                    <a class="code" href="#" target="_blank" style="text-decoration: none;">[Code]</a> 
+                    [<a class="doi" href="#" target="_blank">DOI</a>] 
                 </span>
             </div>
 
@@ -59,16 +55,15 @@
 
 </div>
 
-<!-- 4. Load the Script -->
+<!-- 3. Load the Script -->
 <script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 
-<!-- 5. CSS to ensure visibility -->
+<!-- 4. Force CSS Visibility -->
 <style>
-    #bibtex_display {
+    #bibtex_display, .bibtex_structure {
         display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
     }
-    /* Hide the template itself, but let the JS clones show */
     .bibtex_template { display: none; }
 </style>
