@@ -1,52 +1,24 @@
-<!-- 1. The Data Source (Hidden) -->
-<bibtex src="{{ .Get "src" }}"></bibtex>
+<!-- 1. The Data Source -->
+<!-- We use the root path /ralfschmaelzle.bib to be safe -->
+<bibtex src="/ralfschmaelzle.bib"></bibtex>
 
-<!-- 2. The Output Display (This is where the list appears) -->
+<!-- 2. The Output Display (Flat List) -->
 <div id="bibtex_display">
     
-    <!-- The Structure: Groups items by Year -->
-    <div class="bibtex_structure">
-        <div class="group year" style="margin-bottom: 40px;">
+    <!-- This template is used for EVERY entry -->
+    <div class="bibtex_template" style="display: none; margin-bottom: 20px;">
+        <div style="border-left: 4px solid #444; padding-left: 10px;">
             
-            <!-- The Year Header -->
-            <div style="font-size: 1.5rem; font-weight: bold; border-bottom: 2px solid #eee; margin-bottom: 15px; padding-bottom: 5px;">
-                <i class="fas fa-calendar-alt"></i> 
-                <!-- The JS inserts the year number right here automatically -->
+            <div style="font-size: 1rem;">
+                <span class="title" style="font-weight: bold; color: var(--primary);"></span>
             </div>
             
-            <!-- The list of papers for that year -->
-            <div class="templates"></div>
-        
-        </div>
-    </div>
-
-    <!-- The Template: How one single paper looks -->
-    <!-- This is hidden until the JS clones it into the structure above -->
-    <div class="bibtex_template" style="display: none;">
-        <div style="margin-bottom: 15px; padding-left: 10px; border-left: 3px solid #eee;">
+            <div style="font-style: italic;">
+                <span class="author"></span> (<span class="year"></span>)
+            </div>
             
-            <div style="font-size: 1rem; line-height: 1.6;">
-                <span class="author" style="font-weight: bold; color: var(--primary);"></span> 
-                (<span class="year"></span>). 
-                <span class="title" style="font-style: italic;"></span>. 
+            <div>
                 <span class="journal"></span>
-                <span class="booktitle"></span>.
-            </div>
-
-            <div style="margin-top: 5px; font-size: 0.9rem;">
-                <!-- Conditional Links -->
-                <span class="if url"> 
-                    <a class="url" href="#" target="_blank" style="text-decoration: none;">[LINK]</a> 
-                </span>
-                <span class="if pdf"> 
-                    <a class="pdf" href="#" target="_blank" style="text-decoration: none;">[PDF]</a> 
-                </span>
-                <span class="if doi"> 
-                    <a class="doi" href="#" target="_blank" style="text-decoration: none;">[DOI]</a> 
-                </span>
-                <span class="if code"> 
-                    <a class="code" href="#" target="_blank" style="text-decoration: none;">[CODE]</a> 
-                </span>
             </div>
 
         </div>
@@ -57,14 +29,9 @@
 <!-- 3. Load the Script -->
 <script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 
-<!-- 4. Force Visibility (The Anti-Flash CSS) -->
+<!-- 4. Debug CSS -->
 <style>
-    #bibtex_display {
-        display: block !important;
-        opacity: 1 !important;
-        visibility: visible !important;
-    }
-    .bibtex_structure {
-        display: block !important;
-    }
+    /* Force the display to be visible */
+    #bibtex_display { display: block !important; }
+    .bibtex_template { display: none; } /* Hide the template, show the clones */
 </style>
