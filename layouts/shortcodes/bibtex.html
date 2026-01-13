@@ -1,41 +1,46 @@
-<!-- Load the BibTeX parser library -->
-<script src="/js/bibtex_js.js"></script>
+<!-- Container for the Bibliography -->
+<div id="bibtex_container" style="display: block !important; min-height: 200px;">
+    
+    <!-- 1. The Hidden Data Source -->
+    <bibtex src="{{ .Get "src" }}"></bibtex>
 
-<!-- The Input: Hidden link to your bib file -->
-<bibtex src="{{ .Get "src" }}"></bibtex>
-
-<!-- The Output: The formatting template (Standard Academic Style) -->
-<div class="bibtex_structure">
-  <div class="group year" style="margin-bottom: 20px;">
-    <div style="font-weight: bold; font-size: 1.2em; border-bottom: 1px solid #ccc; margin-bottom: 10px;">
-      <i class="fas fa-calendar-alt"></i> <!-- Optional Icon -->
-      <span>YEAR</span>
+    <!-- 2. The Search Bar (Optional - helps keep the JS alive) -->
+    <div class="bibtex_search_container" style="margin-bottom: 20px; display:none;">
+        <input type="text" class="search_input" placeholder="Search references...">
     </div>
-    <div class="templates"></div>
-  </div>
+
+    <!-- 3. The Output Template -->
+    <div id="bibtex_display">
+        <div class="bibtex_template" style="display: none;">
+            <li style="margin-bottom: 10px; line-height: 1.5;">
+                <span class="author" style="font-weight: bold;"></span> 
+                (<span class="year"></span>). 
+                <span class="title" style="font-style: italic;"></span>. 
+                <span class="journal"></span>
+                <span class="booktitle"></span>.
+                
+                <!-- Conditional Links -->
+                <span class="if url"> [<a class="url" href="#" target="_blank">LINK</a>] </span>
+                <span class="if pdf"> [<a class="pdf" href="#" target="_blank">PDF</a>] </span>
+                <span class="if doi"> [<a class="doi" href="#" target="_blank">DOI</a>] </span>
+            </li>
+        </div>
+    </div>
+
 </div>
 
-<!-- The Template for individual entries -->
-<div id="bibtex_display">
-  <div class="bibtex_template" style="margin-bottom: 15px;">
-    <li style="list-style-type: none;">
-      <span>
-        <span class="author" style="font-weight: bold;"></span>.
-        (<span class="year"></span>).
-        <span class="title" style="font-style: italic;"></span>.
-        <span class="journal"></span>
-        <span class="booktitle"></span>.
-        <!-- Conditional Links: Only show if they exist in the bib file -->
-        <span class="if url">
-          [<a class="url" href="#">LINK</a>]
-        </span>
-        <span class="if pdf">
-          [<a class="pdf" href="#">PDF</a>]
-        </span>
-        <span class="if doi">
-          [<a class="doi" href="#">DOI</a>]
-        </span>
-      </span>
-    </li>
-  </div>
-</div>
+<!-- 4. Load the Script at the end -->
+<script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
+
+<style>
+    /* Force visibility overrides */
+    #bibtex_display, #bibtex_container {
+        opacity: 1 !important;
+        visibility: visible !important;
+        display: block !important;
+    }
+    /* Ensure the template itself isn't hidden by the library logic improperly */
+    #bibtex_display li {
+        list-style-type: none;
+    }
+</style>
