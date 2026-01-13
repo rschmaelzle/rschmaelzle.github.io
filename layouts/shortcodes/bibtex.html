@@ -1,52 +1,67 @@
-<!-- 1. Load Dependencies (jQuery FIRST, then Bibtex) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
+<!-- 1. Load jQuery (REQUIRED for sorting/grouping to work) -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
 <!-- 2. The Data Source -->
 <bibtex src="{{ .Get "src" }}"></bibtex>
 
-<!-- 3. The Structure (This groups by Year) -->
+<!-- 3. The Search Bar (Hidden, but keeps the script from crashing) -->
+<div id="bibtex_inputs" style="display:none;">
+  <input type="text" class="search_input" placeholder="Search...">
+  <select class="bibtex_search_info"><option value="year" selected="selected">Year</option></select>
+</div>
+
+<!-- 4. The Structure (Sorted by Year, Descending) -->
 <div class="bibtex_structure">
-  <div class="group year" sort="desc" style="margin-bottom: 2em;">
+  <div class="group year" sort="desc" style="margin-bottom: 30px;">
     
     <!-- The Year Header -->
-    <div style="font-size: 1.5em; font-weight: bold; border-bottom: 2px solid #333; margin-bottom: 1em; margin-top: 2em;">
-        <i class="fa fa-calendar"></i> 
+    <div style="font-size: 1.5rem; font-weight: 800; border-bottom: 1px solid #ddd; margin-bottom: 15px; padding-top: 10px; color: var(--primary);">
+        <i class="fas fa-calendar-alt"></i> 
     </div>
     
-    <!-- The list for that year -->
+    <!-- The Papers for that year land here -->
     <div class="templates"></div>
   
   </div>
 </div>
 
-<!-- 4. The Template (The look of one paper) -->
+<!-- 5. The Output Template (Clean Academic Style) -->
 <div id="bibtex_display">
-  <div class="bibtex_template" style="display: none;">
-    
-    <div style="margin-bottom: 1em;">
-        <!-- Title -->
-        <span class="title" style="font-weight: bold; color: #000;"></span>
-        <br>
+    <div class="bibtex_template" style="display: none;">
         
-        <!-- Author & Year -->
-        <span class="author"></span> (<span class="year"></span>).
-        <br>
-        
-        <!-- Journal -->
-        <span class="journal" style="font-style: italic;"></span> <span class="booktitle" style="font-style: italic;"></span>.
-        
-        <!-- Links -->
-        <br>
-        <span class="if url" style="margin-right: 5px;">[<a class="url" href="#">LINK</a>]</span>
-        <span class="if pdf" style="margin-right: 5px;">[<a class="pdf" href="#">PDF</a>]</span>
-        <span class="if doi" style="margin-right: 5px;">[<a class="doi" href="#">DOI</a>]</span>
-    </div>
+        <!-- Individual Entry Container -->
+        <div style="margin-bottom: 15px; padding-left: 0;">
+            <div style="font-size: 1rem; line-height: 1.5;">
+                
+                <!-- Citation -->
+                <span class="author" style="font-weight: 600;"></span> 
+                (<span class="year"></span>). 
+                <span class="title" style="font-style: italic;"></span>. 
+                <span class="journal"></span> <span class="booktitle"></span>.
+                
+                <!-- Links -->
+                <span style="font-size: 0.8rem; font-weight: bold; margin-left: 8px;">
+                    <span class="if url"> [<a class="url" href="#" target="_blank" style="text-decoration: none;">LINK</a>] </span>
+                    <span class="if pdf"> [<a class="pdf" href="#" target="_blank" style="text-decoration: none;">PDF</a>] </span>
+                    <span class="if doi"> [<a class="doi" href="#" target="_blank" style="text-decoration: none;">DOI</a>] </span>
+                    <span class="if code"> [<a class="code" href="#" target="_blank" style="text-decoration: none;">CODE</a>] </span>
+                </span>
 
-  </div>
+            </div>
+        </div>
+
+    </div>
 </div>
 
-<!-- 5. Force Visibility CSS -->
+<!-- 6. Load bibtex-js -->
+<script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
+
+<!-- 7. CSS to Ensure Visibility -->
 <style>
-    .bibtex_structure, #bibtex_display { display: block !important; }
+    #bibtex_display, .bibtex_structure {
+        display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+    .bibtex_template { display: none; }
 </style>
