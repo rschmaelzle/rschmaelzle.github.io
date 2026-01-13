@@ -42,34 +42,18 @@ hidemeta: true
 ## Teaching
 
 **Michigan State University**
+Various lectures and seminars on Communication, Neuroscience, VR/AI Methods, and Health Communication 
 *   Introduction to Cognitive Science (Undergraduate)
 *   Neurocognitive Communication (Graduate)
 *   Communication and the Brain (Undergraduate)
 *   Media Neuroscience (Graduate)
 *   Public Communication Campaigns (Undergraduate)
+* 	Health Communication Research Methods: From Time-proven methods to Neuroscience and AI (Undergraduate)
+*   The Future of Health Communication: Designing Digital Health Interventions with Apps, VR, and AI (Undergraduate)
 
 **Universität Konstanz**
-*   General and Biological Psychology
-*   Empirical Research Methods
-*   Social Neuroscience
-
-
-{{< accordion title="Teaching Philosophy" >}}
-My teaching philosophy centers on **active learning** and interdisciplinary synthesis. 
-I believe that students learn best when...
-{{< /accordion >}}
-
-{{< accordion title="Courses Taught" >}}
-*   **COM 399:** Communication Neuroscience
-*   **LIN/PSY/PHL 463:** Cognitive Science
-*   **COM 475:** Public Communication Campaigns
-{{< /accordion >}}
-
-{{< accordion title="Student Evaluations" >}}
-Most of my courses have been officially evaluated. Students reliably comment on:
-1.  Quality of explanations
-2.  Enthusiasm
-3.  Structure
-
-{{< /accordion >}}
+Various lectures and seminars on General and Biological Psychology, Cognitive Neuroscience, and Empirical/Experimental Research Methods:
+*   Empirical Research Methods I & II
+*   Learning and Memory (in the real world!)
+*   Emotion, Stress & Social Neuroscience
 
