@@ -1,0 +1,73 @@
+<!-- 1. The Data Source -->
+<bibtex src="{{ .Get "src" }}"></bibtex>
+
+<!-- 2. HIDDEN CONTROLS (Forces Year Sorting) -->
+<!-- We use 'height: 0' so it is invisible but still readable by JS -->
+<div class="bibtex_controls" style="visibility: hidden; height: 0; overflow: hidden;">
+    <select class="bibtex_sort">
+        <option value="year" selected="selected">Year</option>
+    </select>
+    <select class="bibtex_order">
+        <option value="desc" selected="selected">Desc</option>
+    </select>
+</div>
+
+<!-- 3. The Output Display -->
+<div id="bibtex_display">
+    
+    <div class="bibtex_template" style="display: none;">
+        
+        <!-- The Card -->
+        <div style="margin-bottom: 25px; padding-left: 20px; border-left: 3px solid #ddd;">
+            
+            <!-- Year Label (Visible on every item for clarity) -->
+            <div style="font-size: 0.8rem; font-weight: 900; color: #999; text-transform: uppercase; letter-spacing: 1px;">
+                <span class="year"></span>
+            </div>
+
+            <!-- Title -->
+            <div style="font-size: 1.1rem; font-weight: bold; margin: 5px 0; color: var(--primary);">
+                <span class="title"></span>
+            </div>
+            
+            <!-- Citation -->
+            <div style="font-size: 1rem; line-height: 1.5;">
+                <span class="author"></span>.
+                <span style="font-style: italic;">
+                    <span class="journal"></span> <span class="booktitle"></span>.
+                </span>
+            </div>
+
+            <!-- Links -->
+            <div style="margin-top: 8px; font-size: 0.85rem; font-weight: bold;">
+                <span class="if url" style="margin-right: 10px;"> 
+                    <a class="url" href="#" target="_blank" style="text-decoration: none;">[LINK]</a> 
+                </span>
+                <span class="if pdf" style="margin-right: 10px;"> 
+                    <a class="pdf" href="#" target="_blank" style="text-decoration: none;">[PDF]</a> 
+                </span>
+                <span class="if doi" style="margin-right: 10px;"> 
+                    <a class="doi" href="#" target="_blank" style="text-decoration: none;">[DOI]</a> 
+                </span>
+                <span class="if code"> 
+                    <a class="code" href="#" target="_blank" style="text-decoration: none;">[CODE]</a> 
+                </span>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<!-- 4. Load Script -->
+<script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
+
+<!-- 5. Force Visibility CSS -->
+<style>
+    #bibtex_display {
+        display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+    .bibtex_template { display: none; }
+</style>
