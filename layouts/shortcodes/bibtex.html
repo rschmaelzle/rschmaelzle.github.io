@@ -1,27 +1,30 @@
 <!-- 1. The Data Source -->
 <bibtex src="{{ .Get "src" }}"></bibtex>
 
-<!-- 2. The Display Area -->
+<!-- 2. THE SEARCH BAR (Required for the script to run, but hidden) -->
+<div id="bibtex_inputs" style="display: none;">
+  <input type="text" class="search_input" placeholder="Search...">
+  <select class="bibtex_search_info"><option value="year" selected="selected">Year</option></select>
+</div>
+
+<!-- 3. THE STRUCTURE (Forces Year Sorting 2025 -> 2024) -->
+<div class="bibtex_structure">
+  <div class="group year" sort="desc" style="margin-bottom: 40px;">
+    
+    <!-- The Year Header -->
+    <h3 style="border-bottom: 2px solid #ddd; margin-bottom: 20px; color: var(--primary);">
+        <i class="fas fa-calendar-alt"></i> 
+        <!-- JS puts year here -->
+    </h3>
+    
+    <!-- The Papers land here -->
+    <div class="templates"></div>
+  
+  </div>
+</div>
+
+<!-- 4. THE TEMPLATE (How one paper looks) -->
 <div id="bibtex_display">
-
-    <!-- THE STRUCTURE (Forces Year Sorting) -->
-    <div class="bibtex_structure">
-        <!-- sort="desc" forces 2025 to be at the top -->
-        <div class="group year" sort="desc" style="margin-bottom: 40px;">
-            
-            <!-- The Year Heading -->
-            <h3 style="border-bottom: 2px solid #ddd; margin-bottom: 20px; color: var(--primary);">
-                <i class="fas fa-calendar-alt"></i> 
-                <!-- The JS inserts the year here automatically -->
-            </h3>
-            
-            <!-- CRITICAL: This is where the papers for that year get injected -->
-            <div class="templates"></div>
-        
-        </div>
-    </div>
-
-    <!-- THE TEMPLATE (How one paper looks) -->
     <div class="bibtex_template" style="display: none;">
         <div style="margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px dashed #eee;">
             
@@ -52,18 +55,19 @@
 
         </div>
     </div>
-
 </div>
 
-<!-- 3. Load the Script -->
+<!-- 5. Load the Script -->
 <script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 
-<!-- 4. Force CSS Visibility -->
+<!-- 6. Force Visibility -->
 <style>
-    #bibtex_display, .bibtex_structure {
+    /* Ensure the structure is visible */
+    .bibtex_structure {
         display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
     }
+    /* Keep the template hidden until cloned */
     .bibtex_template { display: none; }
 </style>
