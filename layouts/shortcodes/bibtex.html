@@ -1,73 +1,67 @@
-<!-- 1. The Data Source -->
+<!-- 1. Load jQuery (REQUIRED for sorting to work) -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<!-- 2. The Data Source -->
 <bibtex src="{{ .Get "src" }}"></bibtex>
 
-<!-- 2. THE SEARCH BAR (Required for the script to run, but hidden) -->
-<div id="bibtex_inputs" style="display: none;">
+<!-- 3. The Search Bar (Hidden, but keeps the script happy) -->
+<div id="bibtex_inputs" style="display:none;">
   <input type="text" class="search_input" placeholder="Search...">
   <select class="bibtex_search_info"><option value="year" selected="selected">Year</option></select>
 </div>
 
-<!-- 3. THE STRUCTURE (Forces Year Sorting 2025 -> 2024) -->
+<!-- 4. The Structure (Sorted by Year) -->
 <div class="bibtex_structure">
-  <div class="group year" sort="desc" style="margin-bottom: 40px;">
+  <div class="group year" sort="desc" style="margin-bottom: 30px;">
     
     <!-- The Year Header -->
-    <h3 style="border-bottom: 2px solid #ddd; margin-bottom: 20px; color: var(--primary);">
+    <div style="font-size: 1.5rem; font-weight: 800; border-bottom: 1px solid #ddd; margin-bottom: 15px; padding-top: 10px; color: var(--primary);">
         <i class="fas fa-calendar-alt"></i> 
-        <!-- JS puts year here -->
-    </h3>
+    </div>
     
-    <!-- The Papers land here -->
+    <!-- The Papers -->
     <div class="templates"></div>
   
   </div>
 </div>
 
-<!-- 4. THE TEMPLATE (How one paper looks) -->
+<!-- 5. The Output Template -->
 <div id="bibtex_display">
     <div class="bibtex_template" style="display: none;">
-        <div style="margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px dashed #eee;">
-            
-            <div style="font-size: 1.1rem; font-weight: bold; margin-bottom: 5px;">
-                <span class="title"></span>
-            </div>
-            
-            <div style="font-size: 1rem; color: #444;">
-                <span class="author"></span>
-            </div>
-            
-            <div style="font-style: italic; color: #666; margin-bottom: 8px;">
-                <span class="journal"></span> <span class="booktitle"></span>
-            </div>
+        
+        <!-- Clean Academic Style (No Black Lines) -->
+        <div style="margin-bottom: 15px; padding-left: 0;">
+            <div style="font-size: 1rem; line-height: 1.5;">
+                
+                <!-- Citation -->
+                <span class="author" style="font-weight: 600;"></span> 
+                (<span class="year"></span>). 
+                <span class="title" style="font-style: italic;"></span>. 
+                <span class="journal"></span> <span class="booktitle"></span>.
+                
+                <!-- Links -->
+                <span style="font-size: 0.8rem; font-weight: bold; margin-left: 8px;">
+                    <span class="if url"> [<a class="url" href="#" target="_blank" style="text-decoration: none;">LINK</a>] </span>
+                    <span class="if pdf"> [<a class="pdf" href="#" target="_blank" style="text-decoration: none;">PDF</a>] </span>
+                    <span class="if doi"> [<a class="doi" href="#" target="_blank" style="text-decoration: none;">DOI</a>] </span>
+                    <span class="if code"> [<a class="code" href="#" target="_blank" style="text-decoration: none;">CODE</a>] </span>
+                </span>
 
-            <!-- Links -->
-            <div style="font-size: 0.85rem; font-weight: bold;">
-                <span class="if url" style="margin-right: 10px;"> 
-                    [<a class="url" href="#" target="_blank">LINK</a>] 
-                </span>
-                <span class="if pdf" style="margin-right: 10px;"> 
-                    [<a class="pdf" href="#" target="_blank">PDF</a>] 
-                </span>
-                <span class="if doi" style="margin-right: 10px;"> 
-                    [<a class="doi" href="#" target="_blank">DOI</a>] 
-                </span>
             </div>
-
         </div>
+
     </div>
 </div>
 
-<!-- 5. Load the Script -->
+<!-- 6. Load the Bibtex Script -->
 <script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 
-<!-- 6. Force Visibility -->
+<!-- 7. CSS to Ensure Visibility -->
 <style>
-    /* Ensure the structure is visible */
-    .bibtex_structure {
+    #bibtex_display, .bibtex_structure {
         display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
     }
-    /* Keep the template hidden until cloned */
     .bibtex_template { display: none; }
 </style>
