@@ -1,64 +1,28 @@
 ---
-title: "Ralf Schmaelzle"
+title: "Ralf Schmälzle"
+description: "Ph.D. / Assoc. Prof. - Michigan State University"
 hidemeta: true
-layout: "full" 
 ---
 
-<div class="gateway-container">
+### Ralf Schmälzle, Ph.D.
 
-<div class="gateway-box suit-side">
-<h2>Academic</h2>
-<p>Associate Professor<br>Michigan State University</p>
-<div class="gateway-links">
-<a href="/cv/">Curriculum Vitae &rarr;</a>
-<a href="/publications/">Publications &rarr;</a>
-</div>
-</div>
+*   Associate Professor, Department of Communication, Michigan State University
+*   Neuroscience of Messages Lab (NomLab)
+*   Center for Avatar Research and Immersive Social Media Applications (Carismalab)
+*   Communication, Attention and the Study of Emotions Lab (CASELab)
 
-<div class="gateway-box hoodie-side">
-<h2>Studio Evergreen</h2>
-<p>Digital Atelier<br>Code, Fiction & VR</p>
-<div class="gateway-links">
-<a href="/studio/">Enter The Studio &rarr;</a>
-</div>
-</div>
+---
 
-</div>
+### Research Focus
 
-<style>
-.gateway-container {
-display: flex;
-flex-wrap: wrap;
-gap: 2rem;
-justify-content: center;
-margin-top: 2rem;
-}
-.gateway-box {
-flex: 1;
-min-width: 300px;
-padding: 3rem 2rem;
-border: 1px solid var(--border);
-border-radius: 8px;
-text-align: center;
-transition: transform 0.2s;
-background: var(--entry);
-}
-.gateway-box:hover {
-transform: translateY(-5px);
-box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-}
-.hoodie-side { 
-background: #1a1a1a; 
-color: #fff; 
-}
-.hoodie-side h2, .hoodie-side p { color: #fff; }
-.hoodie-side a { color: #4db6ac; font-weight: bold; text-decoration: none; }
-.suit-side a { font-weight: bold; text-decoration: none; color: var(--primary); }
-.gateway-links {
-display: flex;
-flex-direction: column;
-gap: 1rem;
-margin-top: 2rem;
-font-size: 1.1rem;
-}
-</style>
+I study **communication neuroscience**. This involves a radically interdisciplinary approach that integrates theories from communication science, cognitive neuroscience, and psychology.
+
+My goal is to find out how the human brain responds to messages and how brain activity relates to message effects. Much of my work focuses on:
+
+1.  **Media Neuroscience:** How do mass media collectively engage the brains of audience members?
+2.  **Health Communication:** Can we predict whether a message will work using neuroimaging?
+3.  **Future Media:** Investigating Virtual Reality (VR) and Artificial Intelligence (AI) as new frontiers for interaction.
+
+---
+
+[**View Publications**](/publications/) &nbsp;|&nbsp; [**View Curriculum Vitae**](/cv/)
