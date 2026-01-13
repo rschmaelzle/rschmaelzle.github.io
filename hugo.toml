@@ -4,13 +4,12 @@ title = 'Ralf Schmaelzle'
 theme = 'PaperMod'
 
 [params]
-  defaultTheme = "light" # Keeps it professional (no dark mode toggle flickering)
+  defaultTheme = "light" 
   description = "Professor & Researcher"
   colorScheme = "avocado"
   
   [params.assets]
       disableHLJS = true # Optional
-      # THIS IS THE KEY: Tell it to use extended.css
       customCSS = ["css/extended.css"]
 
 [menu]

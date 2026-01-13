@@ -7,7 +7,7 @@ layout: "full"
 <div class="gateway-container">
 
 <div class="gateway-box suit-side">
-<h2>The Academic</h2>
+<h2>Academic</h2>
 <p>Associate Professor<br>Michigan State University</p>
 <div class="gateway-links">
 <a href="/cv/">Curriculum Vitae &rarr;</a>
