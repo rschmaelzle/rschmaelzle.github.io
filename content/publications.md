@@ -7,7 +7,7 @@ hidemeta: true
 ---
 
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=3VOu6oIAAAAJ) | [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=Schmälzle%20R%5BAuthor%5D) | [Research Gate](https://www.researchgate.net/profile/Ralf_Schmaelzle)
-<br>
+
 <!-- ACCORDION 1: Brain-as-Predictor -->
 {{< accordion title="Sneak Peek 1: Brain-as-Predictor & Audience Synchrony" >}}
 Do you think we could have predicted from your brain activity whether you'd open this field? Indeed, this is increasingly possible and the [lab](http://cn.asc.upenn.edu) in which I did a PostDoc is known for advancing this 'brain-as-predictor' approach. I am currently working on combining inter-subject correlation and related neuroimaging methods with this approach.
@@ -23,7 +23,7 @@ Our results suggest that this approach can be used to derive markers of communic
 
 ![HRCMA Logo](http://www.ralfschmaelzle.net/wp-content/uploads/2023/12/logo_hrcma.jpg)
 {{< /accordion >}}
-<br>
+
 <!-- ACCORDION 2: VR -->
 {{< accordion title="Sneak Peek 2: Virtual Reality & Eye-Tracking" >}}
 Virtual Reality (VR) is going to change the way we communicate and interact. In the **CARISMAlab** (Center for Avatar Research and Immersive Social Media Applications), we use advanced laboratory technologies of today to simulate and study the transformative impact of the communication technologies of tomorrow.
@@ -38,7 +38,7 @@ For example, one recent line of research uses VR-integrated eye-tracking technol
 <!-- VIMEO EMBED -->
 {{< vimeo 245061425 >}}
 {{< /accordion >}}
-<br>
+
 <!-- ACCORDION 3: AI -->
 {{< accordion title="Sneak Peek 3: Artificial Intelligence" >}}
 Artificial Intelligence (AI) has enormous implications for communication because it allows generating messages at scale and in a fully automated fashion. We recognized this potential of AI early on and...
