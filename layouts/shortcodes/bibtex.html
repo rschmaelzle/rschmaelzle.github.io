@@ -1,37 +1,67 @@
 <!-- 1. The Data Source -->
-<!-- We use the root path /ralfschmaelzle.bib to be safe -->
-<bibtex src="/ralfschmaelzle.bib"></bibtex>
+<bibtex src="{{ .Get "src" }}"></bibtex>
 
-<!-- 2. The Output Display (Flat List) -->
-<div id="bibtex_display">
+<!-- 2. The Structure (Groups by Year, Descending) -->
+<div class="bibtex_structure">
+  <!-- sort="desc" puts 2025 at the top -->
+  <div class="group year" sort="desc" style="margin-bottom: 40px;">
     
-    <!-- This template is used for EVERY entry -->
-    <div class="bibtex_template" style="display: none; margin-bottom: 20px;">
-        <div style="border-left: 4px solid #444; padding-left: 10px;">
-            
-            <div style="font-size: 1rem;">
-                <span class="title" style="font-weight: bold; color: var(--primary);"></span>
-            </div>
-            
-            <div style="font-style: italic;">
-                <span class="author"></span> (<span class="year"></span>)
-            </div>
-            
-            <div>
-                <span class="journal"></span>
-            </div>
-
-        </div>
+    <!-- The Year Header -->
+    <div style="font-size: 1.5rem; font-weight: 700; border-bottom: 1px solid #ddd; margin-bottom: 15px; color: var(--primary);">
+        <i class="fas fa-calendar-alt"></i> 
+        <!-- The Year Number is inserted here automatically -->
     </div>
-
+    
+    <!-- The List of Papers for that Year -->
+    <div class="templates"></div>
+  
+  </div>
 </div>
 
-<!-- 3. Load the Script -->
+<!-- 3. The Template (APA Style Format) -->
+<div id="bibtex_display">
+    <div class="bibtex_template" style="display: none;">
+        
+        <div style="margin-bottom: 15px; padding-left: 0;">
+            <div style="font-size: 1rem; line-height: 1.5;">
+                
+                <!-- Author, Year, Title -->
+                <span class="author" style="font-weight: 600;"></span> 
+                (<span class="year"></span>). 
+                <span class="title" style="font-style: italic;"></span>. 
+                
+                <!-- Journal / Conference -->
+                <span class="journal"></span>
+                <span class="booktitle"></span>.
+                
+                <!-- Links -->
+                <span style="font-size: 0.85rem; margin-left: 5px;">
+                    <span class="if url"> 
+                        [<a class="url" href="#" target="_blank" style="text-decoration: none; color: var(--primary);">LINK</a>] 
+                    </span>
+                    <span class="if pdf"> 
+                        [<a class="pdf" href="#" target="_blank" style="text-decoration: none; color: var(--primary);">PDF</a>] 
+                    </span>
+                    <span class="if doi"> 
+                        [<a class="doi" href="#" target="_blank" style="text-decoration: none; color: var(--primary);">DOI</a>] 
+                    </span>
+                </span>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- 4. Load the Script -->
 <script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 
-<!-- 4. Debug CSS -->
+<!-- 5. Force CSS Visibility -->
 <style>
-    /* Force the display to be visible */
-    #bibtex_display { display: block !important; }
-    .bibtex_template { display: none; } /* Hide the template, show the clones */
+    #bibtex_display, .bibtex_structure {
+        display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+    .bibtex_template { display: none; }
 </style>
