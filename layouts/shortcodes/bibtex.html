@@ -1,67 +1,74 @@
 <!-- 1. The Data Source -->
 <bibtex src="{{ .Get "src" }}"></bibtex>
 
-<!-- 2. The Structure (Groups by Year, Descending) -->
-<div class="bibtex_structure">
-  <!-- sort="desc" puts 2025 at the top -->
-  <div class="group year" sort="desc" style="margin-bottom: 40px;">
-    
-    <!-- The Year Header -->
-    <div style="font-size: 1.5rem; font-weight: 700; border-bottom: 1px solid #ddd; margin-bottom: 15px; color: var(--primary);">
-        <i class="fas fa-calendar-alt"></i> 
-        <!-- The Year Number is inserted here automatically -->
-    </div>
-    
-    <!-- The List of Papers for that Year -->
-    <div class="templates"></div>
-  
-  </div>
+<!-- 2. HIDDEN CONTROLS (This forces the sorting) -->
+<div class="bibtex_controls" style="display: none;">
+    <!-- Force Sort by Year -->
+    <select class="bibtex_sort">
+        <option value="year" selected="selected">Year</option>
+    </select>
+    <!-- Force Descending Order (Newest First) -->
+    <select class="bibtex_order">
+        <option value="desc" selected="selected">Desc</option>
+    </select>
 </div>
 
-<!-- 3. The Template (APA Style Format) -->
+<!-- 3. The Output Display -->
 <div id="bibtex_display">
+    
+    <!-- The Template for each entry -->
     <div class="bibtex_template" style="display: none;">
         
-        <div style="margin-bottom: 15px; padding-left: 0;">
-            <div style="font-size: 1rem; line-height: 1.5;">
-                
-                <!-- Author, Year, Title -->
-                <span class="author" style="font-weight: 600;"></span> 
-                (<span class="year"></span>). 
-                <span class="title" style="font-style: italic;"></span>. 
-                
-                <!-- Journal / Conference -->
-                <span class="journal"></span>
-                <span class="booktitle"></span>.
-                
-                <!-- Links -->
-                <span style="font-size: 0.85rem; margin-left: 5px;">
-                    <span class="if url"> 
-                        [<a class="url" href="#" target="_blank" style="text-decoration: none; color: var(--primary);">LINK</a>] 
-                    </span>
-                    <span class="if pdf"> 
-                        [<a class="pdf" href="#" target="_blank" style="text-decoration: none; color: var(--primary);">PDF</a>] 
-                    </span>
-                    <span class="if doi"> 
-                        [<a class="doi" href="#" target="_blank" style="text-decoration: none; color: var(--primary);">DOI</a>] 
-                    </span>
-                </span>
-
+        <!-- Individual Card Style -->
+        <div style="margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #eee;">
+            
+            <!-- Title -->
+            <div style="font-size: 1.1rem; font-weight: bold; margin-bottom: 5px; color: var(--primary);">
+                <span class="title"></span>
             </div>
-        </div>
+            
+            <!-- Author & Year -->
+            <div style="font-size: 1rem; margin-bottom: 5px;">
+                <span class="author"></span> 
+                (<span class="year" style="font-weight: 800;"></span>)
+            </div>
+            
+            <!-- Journal -->
+            <div style="font-style: italic; color: #666; margin-bottom: 8px;">
+                <span class="journal"></span> <span class="booktitle"></span>
+            </div>
 
+            <!-- Links -->
+            <div style="font-size: 0.85rem; text-transform: uppercase; font-weight: bold;">
+                <span class="if url" style="margin-right: 10px;"> 
+                    <a class="url" href="#" target="_blank" style="text-decoration: none;">[Link]</a> 
+                </span>
+                <span class="if pdf" style="margin-right: 10px;"> 
+                    <a class="pdf" href="#" target="_blank" style="text-decoration: none;">[PDF]</a> 
+                </span>
+                <span class="if doi" style="margin-right: 10px;"> 
+                    <a class="doi" href="#" target="_blank" style="text-decoration: none;">[DOI]</a> 
+                </span>
+                <span class="if code"> 
+                    <a class="code" href="#" target="_blank" style="text-decoration: none;">[Code]</a> 
+                </span>
+            </div>
+
+        </div>
     </div>
+
 </div>
 
 <!-- 4. Load the Script -->
 <script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 
-<!-- 5. Force CSS Visibility -->
+<!-- 5. CSS to ensure visibility -->
 <style>
-    #bibtex_display, .bibtex_structure {
+    #bibtex_display {
         display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
     }
+    /* Hide the template itself, but let the JS clones show */
     .bibtex_template { display: none; }
 </style>
