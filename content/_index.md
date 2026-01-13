@@ -42,7 +42,14 @@ description: "Ph.D. / Assoc. Prof. - Michigan State University"
 <style>
 .profile-container { display: grid; grid-template-columns: 1fr 2fr; gap: 3rem; margin-top: 2rem; align-items: start; }
 .profile-sidebar { text-align: center; padding: 1.5rem; background: var(--entry); border: 1px solid var(--border); border-radius: 8px; }
-.profile-img { border-radius: 50%; width: 180px; height: 180px; object-fit: cover; margin-bottom: 1rem; border: 4px solid var(--primary); }
+.profile-img {
+    border-radius: 50%; /* Forces a perfect circle */
+    width: 200px;       /* Slightly larger */
+    height: 200px;
+    object-fit: cover;  /* Ensures it fills the circle without stretching */
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Soft shadow instead of hard border */
+}
 .typer-container { margin: 1rem 0; font-weight: bold; min-height: 1.5em; color: var(--primary); }
 .profile-links { display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.9rem; margin-top: 1.5rem; }
 .profile-links a { text-decoration: none; font-weight: 500; }
@@ -51,3 +58,4 @@ description: "Ph.D. / Assoc. Prof. - Michigan State University"
 .profile-content li { margin-bottom: 1rem; }
 @media (max-width: 768px) { .profile-container { grid-template-columns: 1fr; gap: 2rem; } }
 </style>
+

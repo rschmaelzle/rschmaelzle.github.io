@@ -12,4 +12,4 @@ hidemeta: true
 
 ### Full Bibliography
 
-{{< bibtex src="/ralfschmaelzle.bib" >}}
+{{< bibtex src="https://rschmaelzle.github.io/ralfschmaelzle.bib" >}}
