@@ -12,4 +12,4 @@ hidemeta: true
 
 ### Full Bibliography
 
-{{< bibtex src="https://rschmaelzle.github.io/test.bib" >}}
+{{< readFile file="content/publications_list.md" >}}
