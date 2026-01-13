@@ -1,46 +1,52 @@
-<!-- Container for the Bibliography -->
-<div id="bibtex_container" style="display: block !important; min-height: 200px;">
+<!-- 1. The Data Source -->
+<bibtex src="{{ .Get "src" }}"></bibtex>
+
+<!-- 2. The Structure (This creates the Year Groups) -->
+<div class="bibtex_structure">
+  <!-- sort="desc" ensures 2025 comes before 2024 -->
+  <div class="group year" sort="desc" style="margin-bottom: 30px;">
     
-    <!-- 1. The Hidden Data Source -->
-	<bibtex src="{{ .Get "src" }}" sort="year" desc="true"></bibtex>
-
-    <!-- 2. The Search Bar (Optional - helps keep the JS alive) -->
-    <div class="bibtex_search_container" style="margin-bottom: 20px; display:none;">
-        <input type="text" class="search_input" placeholder="Search references...">
-    </div>
-
-    <!-- 3. The Output Template -->
-    <div id="bibtex_display">
-        <div class="bibtex_template" style="display: none;">
-            <li style="margin-bottom: 10px; line-height: 1.5;">
-                <span class="author" style="font-weight: bold;"></span> 
-                (<span class="year"></span>). 
-                <span class="title" style="font-style: italic;"></span>. 
-                <span class="journal"></span>
-                <span class="booktitle"></span>.
-                
-                <!-- Conditional Links -->
-                <span class="if url"> [<a class="url" href="#" target="_blank">LINK</a>] </span>
-                <span class="if pdf"> [<a class="pdf" href="#" target="_blank">PDF</a>] </span>
-                <span class="if doi"> [<a class="doi" href="#" target="_blank">DOI</a>] </span>
-            </li>
-        </div>
-    </div>
-
+    <!-- The Year Header (e.g. "2025") -->
+    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 15px; color: var(--primary);">
+        <i class="fas fa-calendar-alt"></i> 
+        <span style="font-weight: 900;"></span> <!-- The year number gets injected here -->
+    </h3>
+    
+    <!-- The list of papers for that year goes here -->
+    <div class="templates"></div>
+  
+  </div>
 </div>
 
-<!-- 4. Load the Script at the end -->
+<!-- 3. The Output Template (How a single paper looks) -->
+<div id="bibtex_display">
+    <div class="bibtex_template" style="display: none;">
+        <li style="margin-bottom: 15px; line-height: 1.6; list-style: none;">
+            <span class="author" style="font-weight: bold;"></span> 
+            (<span class="year"></span>). 
+            <span class="title" style="font-style: italic;"></span>. 
+            <span class="journal"></span>
+            <span class="booktitle"></span>.
+            
+            <!-- Links appear only if they exist in the bib file -->
+            <span class="if url"> [<a class="url" href="#" target="_blank">LINK</a>] </span>
+            <span class="if pdf"> [<a class="pdf" href="#" target="_blank">PDF</a>] </span>
+            <span class="if doi"> [<a class="doi" href="#" target="_blank">DOI</a>] </span>
+            <span class="if code"> [<a class="code" href="#" target="_blank">CODE</a>] </span>
+        </li>
+    </div>
+</div>
+
+<!-- 4. Load the Script -->
 <script src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 
 <style>
-    /* Force visibility overrides */
-    #bibtex_display, #bibtex_container {
+    /* CSS to ensure visibility and clean layout */
+    #bibtex_display, .bibtex_structure {
         opacity: 1 !important;
         visibility: visible !important;
         display: block !important;
     }
-    /* Ensure the template itself isn't hidden by the library logic improperly */
-    #bibtex_display li {
-        list-style-type: none;
-    }
+    /* Hide the template placeholder so it doesn't show as a dot */
+    .bibtex_template { display: none; }
 </style>
