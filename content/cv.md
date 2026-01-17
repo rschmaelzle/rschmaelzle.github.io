@@ -15,8 +15,7 @@ hidemeta: true
     *   *Annenberg School for Communication (Communication Neuroscience Lab)*
 *   **2009–2014:** Research Scientist, **Universität Konstanz**
     *   *Department of Psychology (General and Biological Psychology)*
-*   **2010 / 2011:** Visiting Researcher, **Princeton University**
-    *   *Princeton Neuroscience Institute (Hasson Lab)*
+
 
 ---
 
@@ -33,6 +32,7 @@ hidemeta: true
 *   **2021:** Faculty Impact Award, MSU College of Communication Arts and Sciences
 *   **2015:** Fellow, Warren Center for Network and Data Science, UPenn
 *   **2012:** Master Docendi, Student Teaching Award, Universität Konstanz
+*   **2010:** Visiting Researcher, Princeton University, Hasson Lab; Young Scholar Fund, Zukunftskolleg Uni Konstanz; Lienert Stiftung for Biopsychological Methods
 *   **2009:** Stiftung Schmieder Award (Neuropsychological Rehabilitation Research)
 *   **2009:** Tursky Award, Society for Psychophysiological Research
 *   **Various:** 9 Top Paper Awards (ICA and NCA)
