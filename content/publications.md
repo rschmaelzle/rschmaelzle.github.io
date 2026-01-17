@@ -35,6 +35,13 @@ Virtual Reality (VR) is going to change the way we communicate and interact. In 
 
 For example, one recent line of research uses VR-integrated eye-tracking technology to rigorously study the nexus between exposure to messages, reception mechanisms, and message effects. Our "VR Billboard Paradigm" simulates a drive down a highway along which billboards are placed. VR establishes a realistic communication context and people are free to decide for themselves whether to look at a given message.
 
+
+<video width="100%" controls>
+  <source src="https://player.vimeo.com/video/245061425" 
+  type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <!-- VIMEO EMBED -->
 {{< vimeo 245061425 >}}
 {{< /accordion >}}
