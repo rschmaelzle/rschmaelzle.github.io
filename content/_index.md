@@ -19,7 +19,8 @@ description: "Ph.D. / Assoc. Prof. - Michigan State University"
 
 <div class="profile-links">
 <a href="http://nomcomm.github.io">Neuroscience of Messages Lab</a>
-<a href="http://carismalab.com">Carismalab (VR/AR Center)</a>
+<a href="http://carismalab.com">CarismaLab (VR/XR)</a>
+<a href="https://caselab.msu.edu/">CASELab (Physiology & Eye-Tracking)</a>
 <a href="https://comartsci.msu.edu/ralfschmaelzle">Dept. of Communication</a>
 <a href="http://msu.edu">Michigan State University</a>
 </div>
