@@ -8,7 +8,9 @@ description: "Ph.D. / Assoc. Prof. - Michigan State University"
 <div class="profile-container">
 
 <div class="profile-sidebar">
+<div style="text-align: center;">
 <img src="http://www.ralfschmaelzle.net/wp-content/uploads/2023/04/AudienceBrain.jpg" alt="Ralf Schmälzle" class="profile-img">
+</div>
 <h3>Ralf Schmälzle, Ph.D.</h3>
 <p class="role">Assoc. Prof.</p>
 
