@@ -34,7 +34,7 @@ description: "Ph.D. / Assoc. Prof. - Michigan State University"
 <p>My goal is to find out how the human brain responds to messages and during social interaction. Much of my work focuses on:</p>
 <ul>
 <li><strong>Social Interaction: Humans & AI</strong><br><small>Investigating the mechanics of connection — from natural eye contact to interactions with embodied AI agents. I explore how VR, LLMs, and digital avatars can be optimized to create seamless, "real" social presence</small></li>
-<li><strong>Media Neuroscience: The Collective Mind</strong><br><small>How do movies, stories, and mass media collectively engage and synchronize the brains of an audience?</small></li>
+<li><strong>Media Neuroscience: The Collective Mind</strong><br><small>How do movies, stories, and mass media collectively engage and synchronize the brains of an audience? I focus on these shared responses to link information theory (from engineering) to mass communication (from social science), especially media influence mechanisms and population-level media effects.</small></li>
 <li><strong>Neuroforcasting: Health and Risk Communication</strong><br><small>Can we predict if a message will change your life? I use neuroimaging to identify the hidden markers of persuasion and attention that determine a message's impact. </small></li>
 </ul>
 <p>Three cross-cutting themes that play a large role in my current work are <strong>Neuroimaging</strong> — the window into the black box of the mind - <strong>Virtual Reality</strong> — the communication medium of the future — and <strong>Artificial Intelligence</strong> — the quest to build machines that can think, act, and communicate like humans.</p>
