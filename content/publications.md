@@ -68,7 +68,7 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 #### Submitted / In Press
 *   Lim, S., **Schmälzle, R.**, Bente, G. (2026). Speaker responses to audience-induced social-evaluative threat: Evidence from scientific presentation tasks in immersive virtual reality. Scientific Reports. 
-*   **Schmälzle, R.**, Cho, HJ., Turner, M. (in press). The Signal in the Noise: Hierarchy and Robustness of Physiological Audience Alignment during Narrative Media. biorxiv. [PDF] [Code]
+*   **Schmälzle, R.**, Cho, HJ., Turner, M. (in press). The Signal in the Noise: Hierarchy and Robustness of Physiological Audience Alignment during Narrative Media. biorxiv. 
 *   Jeon, M., Lim, S., Lapinski, M., Spates, S., Bente, G., **Schmälzle, R.** (2026). Visual attention and retention effects of a design element in culturally targeted messages: Introducing the Virtual Billboard Paradigm. Communication Quarterly.
 *   **Schmälzle, R.**, & Lim, S. (2026). A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance. *The Forensic of Pi Kappa Delta*. (in press).
 
