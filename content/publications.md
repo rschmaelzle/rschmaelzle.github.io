@@ -50,135 +50,519 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 ---
 
-### Full Bibliography
+## Publications
 
-#### Submitted / In Press
-*   Lim, S., **Schmälzle, R.**, Bente, G. (2026). Speaker responses to audience-induced social-evaluative threat: Evidence from scientific presentation tasks in immersive virtual reality. Scientific Reports. 
-*   **Schmälzle, R.**, Cho, HJ., Turner, M. (in press). The Signal in the Noise: Hierarchy and Robustness of Physiological Audience Alignment during Narrative Media. biorxiv. 
-*   Jeon, M., Lim, S., Lapinski, M., Spates, S., Bente, G., **Schmälzle, R.** (2026). Visual attention and retention effects of a design element in culturally targeted messages: Introducing the Virtual Billboard Paradigm. Communication Quarterly.
-*   **Schmälzle, R.**, & Lim, S. (2026). A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance. *The Forensic of Pi Kappa Delta*. (in press).
+### In Press / Preprints
 
+* **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.**
+    Schmälzle, R. & Lim, S.
+    *The Forensic of Pi Kappa Delta*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2026forensic.pdf)
 
-#### 2025
-*   Pena, J., Huskey, R., Gong, X., Andrews, M., Weisman, W., Kee, R., Klein, V., Sarieva, S., Kang, R., **Schmälzle, R.**, & Hancock, J. (2025). Media Neuroscience on a shoestring 2.0: Using AR and mobile EEG hyperscanning to study cooperation. *Journal of Media Psychology*. [DOI](https://doi.org/10.1027/1864-1105/a000462) | [CODE](https://github.com/cogcommscience-lab/muse_artgram)
-*   **Schmälzle, R.**, Lim, S., Du, Y., & Bente, G. (2025). The art of audience engagement: LLM-based thin-slicing of scientific talks. *Frontiers in Communication*, 10, 1610404. [DOI](https://doi.org/10.3389/fcomm.2025.1610404) | [CODE](https://github.com/nomcomm/thinslice_ps)
-*   **Schmälzle, R.**, & Lim, S. (2025). From blank page to campaign plan: Using the CampAIgner AI tool to scaffold public communication campaign design. *Communication Teacher*. [DOI](https://doi.org/10.1080/17404622.2025.2545366) | [CODE](https://github.com/nomcomm/campaignr)
-*   Cho, H. J., Lim, S., Saenz, M., & **Schmälzle, R.** (2025). Memory inception through gaze-contingent message exposure: Using Virtual Reality to study media influence. *Journal of Communication*. [DOI](https://doi.org/10.1093/joc/jqaf048) | [CODE](https://github.com/nomcomm/vr_billboard_p)
-*   Cho, H. J., Lim, S., Turner, M., Bente, G., & **Schmälzle, R.** (2025). Eyes on VR: Unpacking the causal chain between exposure, reception, and retention for emotional billboard messages. *Human Behavior and Emerging Technologies*, 1, 3619411. [DOI](https://doi.org/10.1155/hbe2/3619411) | [CODE](https://github.com/nomcomm/vr_billboard_e)
-*   Hussain, A., **Schmälzle, R.**, Lim, S., & Bouali, N. (2025). Comparing AI and human-generated health messages in an Arabic cultural context. *Global Health Action*, 18(1), 2464360. [DOI](https://doi.org/10.1080/16549716.2025.2464360) | [CODE](https://github.com/nomcomm/uae_billboard_ai)
-*   Lim, S., **Schmälzle, R.**, & Bente, G. (2025). Artificial social influence via human-embodied AI agent interaction in immersive virtual reality (VR): Effects of similarity-matching during health conversations. *Computers in Human Behavior Artificial Humans*, 5, 100172. [DOI](https://doi.org/10.1016/j.chbah.2025.100172) | [CODE](https://github.com/nomcomm/LimAI1_Project)
-*   Lim, S., **Schmälzle, R.**, & Bente, G. (2025). A VR-based paradigm for examining relationship-building behaviors in LLM-driven intelligent virtual agents (IVAs). *Designing and Evaluating Behavioural Paradigms With Proactive Virtual Agents @ IVA*. [DOI](https://doi.org/10.1145/3742886.3756741)
-*   Lim, S., **Schmälzle, R.**, & Bente, G. (2025). Artificial social influence: Rapport-building, LLM-based embodied conversational agents for health coaching. *Connect @ 24h ACM International Conference on Intelligent Virtual Agents*. [DOI](https://doi.org/10.17185/duepublico/84107)
-*   Lim, S., **Schmälzle, R.**, & Bente, G. (2025). Speaker responses to audience-induced social-evaluative threat: Evidence from scientific presentation tasks in immersive virtual reality. *bioRxiv*. [DOI](https://doi.org/10.1101/2025.09.03.673376)
-*   **Schmälzle, R.** (2025). Eye Tracking (Eye Tracking in Political Education Campaigns). *PRIF Reports*. [LINK](https://preval.hsfk.de/publikationen/preval-studien/preval-studie-5/2025)
-*   **Schmälzle, R.**, Wu, J., Lim, S., & Bente, G. (2025). Inter-subject correlations of pupillary audience responses: Decoding visual attention and predicting memory in a VR media setting. *Journal of Media Psychology*. [DOI](https://doi.org/10.1101/2024.01.22.576685) | [CODE](https://github.com/nomcomm/vr_video_pupil_study)
-*   Huskey, R., & **Schmälzle, R.** (2025). Finding middle ground In cognitive media psychology. In N. Bowman & N.D. Shackleford (Eds). *Oxford Handbook of Media Psychology*.
-*   **Schmälzle, R.**, Wilcox, S., & Huskey, R. (2025). Brain imaging as a window into the biological basis of social cognition and communication. In T. Reimer, L. van Swol, & A. Florack (Eds.). *Handbook of Communication and Social Cognition*.
-*   Bente, G., **Schmälzle, R.**, Jahn, N. T., & Reimers, M. (2025). Reading the Social Clock. Analyzing Nonverbal Coordination Dynamics in Casual Chat and Conflict. *Annals of the New York Academy of Sciences*. [DOI](https://doi.org/10.1111/nyas.70118)
-*   Cho, H. J., Lim, S., Saenz, M., & **Schmälzle, R.** (2025). Memory inception through gaze-contingent message exposure: Using Virtual Reality to study media influence. *bioRxiv*. [DOI](https://doi.org/10.1101/2025.01.08.631803) | [CODE](https://github.com/nomcomm/vr_billboard_p)
+### 2026
 
-#### 2024
-*   **Schmälzle, R.**, Lim, S., Jahn, N., Wilcox, S., & Ye, Q. (2024). Collective brain alignment during story reception: Shared neural responses in French, Chinese, and English listeners of Le Petit Prince. *Asian Communication Research*, 21(3), 195-217. [DOI](https://doi.org/10.20879/acr.2024.21.024) | [CODE](https://github.com/nomcomm/littleprince_multilingual)
-*   **Schmälzle, R.**, Lim, S., Bezbaruah, S., Wu, J., & Hussain, S. A. (2024). Converging crowds and tied twins: Audience brain responses to the same movie. *Journal of Media Psychology*. [DOI](https://doi.org/10.1027/1864-1105/a000422) | [CODE](https://github.com/nomcomm/partlycloudy2)
-*   Lim, S., & **Schmälzle, R.** (2024). The effect of source disclosure on evaluation of AI-generated messages: A two-part study. *Computers in Human Behavior: Artificial Humans*, 2(1), 100058. [DOI](https://doi.org/10.1016/j.chbah.2024.100058) | [CODE](https://github.com/nomcomm/Evaluation_Vaping_Messages)
-*   Lim, S., & **Schmälzle, R.** (2024). Exploring the mechanisms of AI message generation: A chatbot development activity for students. *Communication Teacher*, 38(1), 21-27. [DOI](https://doi.org/10.1080/17404622.2023.2269258) | [CODE](https://github.com/nomcomm/communicaton_teacher_nlg)
-*   Imhof, M. A., Flösch Karl P., **Schmälzle, R.**, Renner, B., & Schupp, H. T. (2024). Portable EEG in groups shows increased brain coupling to strong health messages. *Social, Cognitive, and Affective Neuroscience*, 19(1), nsae087. [DOI](https://doi.org/10.1093/scan/nsae087)
-*   Lim, S., Cho, H., Jeon, M., Cui, X., & **Schmälzle, R.** (2024). Using VR and eye-tracking to study attention to and retention of AI-generated ads. *bioRxiv*. [DOI](https://doi.org/10.1101/2024.08.15.607684) | [CODE](https://github.com/nomcomm/vr_city_driving)
-*   Jeon, M., Lim, S., Lapinski, M., Spates, S., Bente, G., & **Schmälzle, R.** (2024). Attention and retention effects of culturally targeted billboard messages: An eye-tracking study using immersive Virtual Reality. *bioRxiv*. [DOI](https://doi.org/10.1101/2024.09.10.610975v1) | [CODE](https://github.com/nomcomm/vr_billboard_t)
-*   **Schmälzle, R.**, Jahn, N., & Bente, G. (2024). Charting the silent signals of social gaze: Automating eye contact assessment. *bioRxiv*. [CODE](https://osf.io/mvpf5/)
-*   Cho, H. J., Lim, S., Turner, M., Bente, G., & **Schmälzle, R.** (2024). Eyes on VR: Unpacking the causal chain between exposure, reception, and retention for emotional billboard messages. *bioRxiv*. [DOI](https://doi.org/10.1101/2024.07.19.604208) | [CODE](https://github.com/nomcomm/vr_billboard_e)
-*   **Schmälzle, R.**, Wu, J., Lim, S., & Bente, G. (2024). The eyes have it: Inter-subject correlations of pupillary responses for audience response measurement in VR. *bioRxiv*. [DOI](https://doi.org/10.1101/2024.01.22.576685) | [CODE](https://github.com/nomcomm/vr_video_pupil_study)
-*   Tamborini, R., **Schmälzle, R.**, & Bowman, N. D. (2024). The role of theory in media entertainment research. In *DeGryuter Handbook of Entertainment Media and Communication*. [DOI](https://doi.org/10.1515/9783110792881-047)
+* **Examining speakers' subjective and bio-behavioral responses to audience-induced social-evaluative threat via immersive VR.**
+    Lim, S., Schmälzle, R., & Bente, G.
+    *Scientific Reports*.
+    [DOI](https://doi.org/10.1101/2025.09.03.673376) | [CODE](https://github.com/nomcomm/speaker_responses_audience) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2026speakerscirep.pdf)
 
-#### 2023
-*   **Schmälzle, R.**, & Huskey, R. (2023). Integrating media content analysis, reception analysis, and media effects studies. *Frontiers in Neuroscience*, 17, 1155750. [DOI](https://doi.org/10.3389/fnins.2023.1155750)
-*   **Schmälzle, R.**, Liu, H., Delle, F., Lewin, K., Jahn, N. T., Zhang, Y., Yoon, H., & Long, J. (2023). Moment-by-moment tracking of audience brain responses to an engaging public speech. *Communication Monographs*, 91(1), 31-55. [DOI](https://doi.org/10.1080/03637751.2023.2240398) | [CODE](https://github.com/nomcomm/narratives_itsnotthefall)
-*   **Schmälzle, R.**, Lim, S., Cho, H. J., Wu, J., & Bente, G. (2023). Examining the exposure-reception-retention link in realistic communication environments via VR and eye-tracking: The VR billboard paradigm. *PlosOne*, 18(11), e0291924. [DOI](https://doi.org/10.1101/2023.06.03.543559) | [CODE](https://github.com/nomcomm/vr_billboard_paradigm)
-*   **Schmälzle, R.**, Lim, S., Cho, H. J., Wu, J., & Bente, G. (2023). The VR billboard paradigm: Using VR and eye-tracking to examine the exposure-reception-retention link in realistic communication environments. *bioRxiv*. [DOI](https://doi.org/10.1101/2023.06.03.543559) | [CODE](https://github.com/nomcomm/vr_billboard_paradigm)
-*   Lim, S., & **Schmälzle, R.** (2023). Artificial intelligence for health message generation: an empirical study using a large language model (LLM). *Frontiers in Communication*, 8, 1129082. [DOI](https://doi.org/10.3389/fcomm.2023.1129082) | [CODE](https://github.com/nomcomm/Message_Engine2)
-*   Lim, S., & **Schmälzle, R.** (2023). The effect of source disclosure on evaluation of AI-generated messages: A two-part study. *arXiv*. [DOI](https://doi.org/10.48550/arXiv.2311.15544)
-*   **Schmälzle, R.**, & Huskey, R. (2023). Skyhooks, cranes, and the construct dump. *Asian Communication Research*, 20(2), 84-94. [DOI](https://doi.org/10.20879/acr.2023.20.016)
-*   Holmstrom, A., Dorrance-Hall, E., Wilcox, S., & **Schmälzle, R.** (2023). Confirmation, disconfirmation, and communal coping for joint physical activity. *Health Communication*, 39(6), 1067-1081. [DOI](https://doi.org/10.1080/10410236.2023.2201748)
-*   Bente, G., **Schmälzle, R.**, Jahn, N., & Schaaf, A. (2023). Measuring the effects of co-location on emotion perception in shared virtual environments. *Frontiers in Virtual Reality*, 9, 449. [DOI](https://doi.org/10.1057/s41599-022-01461-5)
+* **The Signal in the Noise: Hierarchy and Robustness of Physiological Audience Alignment during Narrative Media.**
+    Schmälzle, R., Cho, H. J., & Turner, M.
+    *biorxiv*.
+    [DOI](https://doi.org/10.64898/2026.02.05.703516) | [CODE](https://github.com/nomcomm/PC_HJ) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2026partlyphysio.pdf)
 
-#### 2022
-*   **Schmälzle, R.**, & Wilcox, S. (2022). Harnessing artificial intelligence for health message generation: The folic acid message engine. *Journal of Medical Internet Research*, 22(1), e28858. [DOI](https://doi.org/10.2196/28858) | [CODE](https://github.com/nomcomm/MessageEngine)
-*   Lim, S., & **Schmälzle, R.** (2022). Artificial intelligence for health message generation: An empirical study using a large language model (LLM) and prompt engineering. *arXiv*, 2212.07507. [DOI](https://doi.org/10.48550/arXiv.2212.07507) | [CODE](https://github.com/nomcomm/message_engine2)
-*   **Schmälzle, R.**, Wilcox, S., & Jahn, N. T. (2022). Identifying moments of peak audience engagement from brain responses during story listening. *Communication Monographs*, 89(4), 515-538. [DOI](https://doi.org/10.1080/03637751.2022.2032229) | [CODE](https://github.com/nomcomm/narratives_pieman)
-*   **Schmälzle, R.** (2022). Theory and method for studying how messages prompt shared brain responses along the sensation-to-cognition continuum. *Communication Theory*, 32(4), 450-460. [DOI](https://doi.org/10.1093/ct/qtac009)
-*   **Schmälzle, R.**, Grady, S. M., & Baldwin, J. A. (2022). Examining the relationship between story structure and audience response. *Projections*, 16(3), 1-28. [DOI](https://doi.org/10.3167/proj.2022.160301) | [CODE](https://github.com/nomcomm/ISC_StoryStructure_Projections)
-*   Jahn, N., Bente, G., Meshi, D., & **Schmälzle, R.** (2022). Media neuroscience on a shoestring: Examining electrocortical responses to visual stimuli via mobile EEG. *Journal of Media Psychology*, 35(2), 75-86. [DOI](https://doi.org/10.1027/1864-1105/a000348) | [CODE](https://github.com/nomcomm/MediaNeuroscienceOnAShoestring_JMP)
-*   Bente, G., **Schmälzle, R.**, Kryston, K., & Jahn, N. (2022). Building blocks of suspense. *Nature Humanities and Social Sciences Communications*, 9, 449. [DOI](https://doi.org/10.1057/s41599-022-01461-5) | [CODE](https://osf.io/ny9cw/)
+* **Visual attention and retention effects of a design element in culturally targeted messages: Introducing the Virtual Billboard Paradigm.**
+    Jeon, M., Lim, S., Lapinski, M., Spates, S., Bente, G., & Schmälzle, R.
+    *Communication Quarterly*.
+    [DOI](https://doi.org/10.1080/01463373.2026.2629568) | [CODE](https://github.com/nomcomm/vr_billboard_t) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/jeon2026cultural.pdf)
 
-#### 2021
-*   Anderson, J., Lapinski, M., Turner, M., Peng, T., & **Schmälzle, R.** (2021). Speaking of values: Value-expressive communication and exercise intentions. *Health Communication*, 37(10), 1285-1294. [DOI](https://doi.org/10.1080/10410236.2021.1886398)
-*   Grall, C., Weber, R., Tamborini, R., & **Schmälzle, R.** (2021). Stories collectively engage listeners' brains. *Journal of Communication*, 71(2), 332-355. [DOI](https://doi.org/10.1093/joc/jqab004) | [CODE](https://osf.io/s4tcj/)
-*   Baldwin, J. A., & **Schmälzle, R.** (2021). A character recognition tool for automatic detection of social characters in visual media content. *Computational Communication Research*, 4(1). [DOI](https://doi.org/10.5117/CCR2022.1.010.BALD) | [CODE](https://github.com/nomcomm/Character-Recognition-Tool)
-*   Dorrance-Hall, E., Wilcox, S., Holmstrom, A., McGraw, J., & **Schmälzle, R.** (2021). Reactance to healthy eating and physical activity messages. *Health Communication*, 38(7), 1404-1415. [DOI](https://doi.org/10.1080/10410236.2021.2010354)
-*   **Schmälzle, R.**, Wilcox, S., & Grall, C. (2021). Neuroimaging in environmental communication research. In *ICA-Routledge Handbook of International Trends in Environmental Communication*. [DOI](https://doi.org/10.4324/9780367275204)
+### 2025
 
-#### 2020
-*   **Schmälzle, R.**, & Grall, C. (2020). The coupled brains of captivated audiences. *Journal of Media Psychology*, 1-13. | [CODE](https://github.com/nomcomm/CamCanSuspenseISC_JMP)
-*   **Schmälzle, R.**, & Meshi, D. (2020). Communication neuroscience: Theory, methodology, and experimental approaches. *Communication Methods and Measures*, 1(1), 1-16. [DOI](https://doi.org/10.1080/19312458.2019.1708283)
-*   **Schmälzle, R.**, Cooper, N., et al. (2020). The effectiveness of online messages for promoting smoking cessation resources. *Frontiers in Human Neuroscience*, 14. [DOI](https://doi.org/10.3389/fnhum.2020.565772) | [CODE](https://github.com/nomcomm/TruthEx_Frontiers)
-*   Imhof, M. A., **Schmälzle, R.**, Renner, B., & Schupp, H. T. (2020). Strong health messages increase audience brain coupling. *NeuroImage*, 216, 116527. [DOI](https://doi.org/10.1016/j.neuroimage.2020.116527) | [CODE](https://osf.io/9mc8b/)
-*   Huskey, R., ... & **Schmälzle, R.**, ... (2020). Marr's tri-level framework integrates biology with communication science. *Journal of Communication*, 70, 356-378. [DOI](https://doi.org/10.1093/joc/jqaa007)
-*   Wilcox, S., Dorrance-Hall, E., Homstrom, A., & **Schmälzle, R.** (2020). The emerging frontier of interpersonal communication and neuroscience. *Annals of the International Communication Association*, 44(4), 368-384. [DOI](https://doi.org/10.1080/23808985.2020.1843366)
-*   Grall, C., & **Schmälzle, R.** (2020). Neurocinematics. In *The International Encyclopedia of Media Psychology*. [DOI](https://doi.org/10.1002/9781119011071.iemp0305)
-*   **Schmälzle, R.**, & Grall, C. (2020). Mediated messages and synchronized brains. In *Handbook of Communication Science and Biology*. [DOI](https://doi.org/10.4324/9781351235587)
-*   **Schmälzle, R.**, & Grall, C. (2020). Psychophysiological methods: Options, uses, and validity. In *The International Encyclopedia of Media Psychology*. [DOI](https://doi.org/10.1002/9781119011071.iemp0013)
+* **Media Neuroscience on a shoestring 2.0: Using AR and mobile EEG hyperscanning to study cooperation.**
+    Pena, J., Huskey, R., Gong, X., Andrews, M., Weisman, W., Kee, R., Klein, V., Sarieva S, K. R., Schmälzle, R., & Hancock, J.
+    *Journal of Media Psychology*.
+    [DOI](https://doi.org/10.1027/1864-1105/a000462) | [CODE](https://github.com/cogcommscience-lab/muse_artgram) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/pena2025shoestring.pdf)
 
-#### 2019
-*   **Schmälzle, R.**, Hartung, F., et al. (2019). Visual cues that predict intuitive risk perception in the case of HIV. *PLoS One*, 14(2), e0211770. [DOI](https://doi.org/10.1371/journal.pone.0211770) | [CODE](https://github.com/nomcomm/RiskCues_PlosOne)
-*   **Schmälzle, R.**, Imhof, M. A., et al. (2019). Impressions of HIV risk online: Brain potentials while viewing online dating profiles. *Cognitive, Affective and Behavioral Neuroscience*, 14(2). [DOI](https://doi.org/10.3758/s13415-019-00731-1) | [CODE](https://github.com/nomcomm/RiskProfiles_CABN)
-*   Kranzler, E. C., **Schmälzle, R.**, et al. (2019). Adolescent neural responses to antismoking messages. *Media Psychology*, 22(2), 323–349. [DOI](https://doi.org/10.1080/15213269.2018.1476158) | [CODE](https://osf.io/gz5uv/)
-*   Kranzler, E. C., **Schmälzle, R.**, et al. (2019). Message-elicited brain response moderates the relationship between opportunities for exposure to anti-smoking messages and message recall. *Journal of Communication*, 69(5), 589-611. [DOI](https://doi.org/10.1093/joc/jqz035)
-*   Pei, R., **Schmälzle, R.**, et al. (2019). Adolescents' neural response to tobacco prevention messages and sharing engagement. *American Journal of Preventive Medicine*, 56(2S1), S40–S48. [DOI](https://doi.org/10.1016/j.amepre.2018.07.044)
+* **The art of audience engagement: LLM-based thin-slicing of scientific talks.**
+    Schmälzle, R., Lim, S., Du, Y., & Bente, G.
+    *arXiv*.
+    [CODE](https://github.com/nomcomm/thinslice_ps) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2025thinslicellm.pdf)
 
-#### 2018
-*   Schlicht-Schmälzle, R., Chykina, V., & **Schmälzle, R.** (2018). An attitude network analysis of post-national citizenship identities. *PLoS One*, 13(12), e0208241. [DOI](https://doi.org/10.1371/journal.pone.0208241) | [CODE](https://github.com/nomcomm/GlobalCitizenship_EVS)
-*   Kryston, K., Novotny, E., **Schmälzle, R.**, & Tamborini, R. (2018). Video games: A medium that demands our attention. In *Video Games: A Medium that Demands Our Attention*. [URL](https://www.routledge.com/Video-Games-A-Medium-That-Demands-Our-Attention-1st-Edition/Bowman/p/book/9780815376897)
+* **Finding middle ground In cognitive media psychology.**
+    Huskey, R. & Schmälzle, R.
+    *In. N. Bowman & N.D. Shackleford (Eds). Oxford Handbook of Media Psychology*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/Huskey2025cognitivemediapsychology.pdf)
 
-#### 2017
-*   **Schmälzle, R.**, Brook O'Donnell, M., et al. (2017). Brain connectivity dynamics during social interaction reflect social network structure. *Proceedings of the National Academy of Sciences*, 114(20), 5153-5158. [DOI](https://doi.org/10.1073/pnas.1616130114) | [CODE](https://github.com/nomcomm/BrainConnectivitySocialNetwork_PNAS)
-*   **Schmälzle, R.**, Imhof, M. A., et al. (2017). Reliability of fMRI time series: Similarity of neural processing during movie viewing. *biorxiv*. [DOI](https://doi.org/10.1101/158188) | [CODE](https://github.com/nomcomm/reliability_project)
-*   Imhof, M. A., **Schmälzle, R.**, et al. (2017). How real-life health messages engage our brains. *Social, Cognitive, and Affective Neuroscience*, 12(7), 1188-1196. [DOI](https://doi.org/10.1093/scan/nsx044)
-*   **Schmälzle, R.**, Renner, B., & Schupp, H. T. (2017). Health risk perception and risk communication. *Policy Insights from the Behavioral and Brain Sciences*. [DOI](https://doi.org/10.1177/2372732217720223)
+* **Memory inception through gaze-contingent message exposure: Using Virtual Reality to study media influence.**
+    Cho, H. J., Lim, S., Saenz, M., & Schmälzle, R.
+    *Journal of Communication*.
+    [DOI](https://doi.org/10.1093/joc/jqaf048) | [CODE](https://github.com/nomcomm/vr_billboard_p) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/cho2025inceptionjoc.pdf)
 
-#### 2016
-*   Schupp, H. T., Kirmse, U., **Schmälzle, R.**, Flaisch, T., & Renner, B. (2016). Newly-formed emotional memories guide selective attention processes. *Scientific Reports*, 6, 28091.
+* **Comparing AI and human-generated health messages in an Arabic cultural context.**
+    Hussain, A., Schmälzle, R., Lim, S., & Bouali, N.
+    *Global Health Action, 18(1)*.
+    [DOI](https://doi.org/10.1080/16549716.2025.2464360) | [CODE](https://github.com/nomcomm/uae_billboard_ai) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/hussain2025aihumanmessagesuae.pdf)
 
-#### 2015
-*   **Schmälzle, R.**, Häcker, F., Honey, C. J., & Hasson, U. (2015). Engaged listeners: Shared neural processing of powerful political speeches. *Social, Cognitive, and Affective Neurosciences*, 1, 168-169.
-*   Barth, A., **Schmälzle, R.**, et al. (2015). How target and perceiver gender affect impressions of HIV risk. *Frontiers in Public Health*, 3(1), 223. [DOI](https://doi.org/10.3389/fpubh.2015.00223)
-*   Becker, C., **Schmälzle, R.**, et al. (2015). Thirst and the state-dependent representation of incentive stimulus value in human motive circuitry. *Social, Cognitive, and Affective Neurosciences*, 10(12), 1722-1729.
-*   Flaisch, T., Imhof, M., **Schmälzle, R.**, et al. (2015). Implicit and explicit attention to pictures and words. *Frontiers in Psychology*, 6(1), 1861. [DOI](https://doi.org/10.3389/fpsyg.2015.01861)
-*   Renner, B., Gamp, M., **Schmälzle, R.**, & Schupp, H. T. (2015). Health risk perception. *International Encyclopedia of the Social & Behavioral Sciences*.
+* **Artificial social influence via human-embodied AI agent interaction in immersive virtual reality (VR): Effects of similarity-matching during health conversations.**
+    Lim, S., Schmälzle, R., & Bente, G.
+    *Computers in Human Behavior Artificial Humans, 5*.
+    [DOI](https://doi.org/10.1016/j.chbah.2025.100172) | [CODE](https://github.com/nomcomm/LimAI1_Project) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2025asi.pdf)
 
-#### 2014
-*   Häcker, F., **Schmälzle, R.**, Renner, B., & Schupp, H. T. (2014). Neural correlates of HIV risk feelings. *Social Cognitive and Affective Neuroscience*. [DOI](https://doi.org/10.1093/scan/nsu093)
-*   Schupp, H. T., **Schmälzle, R.**, & Flaisch, T. (2014). Explicit semantic stimulus categorization interferes with implicit emotion processing. *Social Cognitive and Affective Neuroscience*, 9, 1738–1745.
+* **From blank page to campaign plan: Using the CampAIgner AI tool to scaffold public communication campaign design.**
+    Schmälzle, R. & Lim, S.
+    *Communication Teacher*.
+    [DOI](https://doi.org/10.1080/17404622.2025.2545366) | [CODE](https://github.com/nomcomm/campaignr) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2025campaignr.pdf)
 
-#### 2013
-*   **Schmälzle, R.**, Häcker, F., et al. (2013). Neural correlates of risk perception during real-life risk communication. *Journal of Neuroscience*, 33(25), 10340–10347.
-*   Barth, A., **Schmälzle, R.**, et al. (2013). Neural correlates of risk perception: HIV vs. leukemia. *Frontiers in Behavioral Neuroscience*, 7(1).
+* **A VR-based paradigm for examining relationship-building behaviors in LLM-driven intelligent virtual agents (IVAs).**
+    Lim, S., Schmälzle, R., & Bente, G.
+    *Designing and Evaluating Behavioural Paradigms With Proactive Virtual Agents (DEBP-PVA) @ 25th ACM International Conference on Intelligent Virtual Agents (IVA)*.
+    [DOI](https://doi.org/10.1145/3742886.3756741) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2005aiagent2.pdf)
 
-#### 2012
-*   **Schmälzle, R.**, Renner, B., & Schupp, H. T. (2012). Neural correlates of perceived risk: the case of HIV. *Social Cognitive and Affective Neuroscience*, 7(6), 667–676.
-*   Renner, B., **Schmälzle, R.**, & Schupp, H. T. (2012). First impressions of HIV risk: it takes only milliseconds to scan a stranger. *PloS One*, 7(1), e30460.
-*   Schupp, H. T., **Schmälzle, R.**, et al. (2012). Affective picture processing as a function of preceding picture valence. *Biological Psychology*, 91(1), 81-87.
+* **Artificial social influence: Rapport-building, LLM-based embodied conversational agents for health coaching.**
+    Lim, S., Schmälzle, R., & Bente, G.
+    *Connect @ 24h ACM International Conference on Intelligent Virtual Agents (IVA)*.
+    [DOI](https://doi.org/10.17185/duepublico/84107) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2025ivapaperlimai1.pdf)
 
-#### 2011
-*   **Schmälzle, R.**, Schupp, H. T., Barth, A., & Renner, B. (2011). Implicit and explicit processes in risk perception: neural antecedents of perceived HIV risk. *Frontiers in Human Neuroscience*, 5(1).
+* **The art of audience engagement: LLM-based thin-slicing of scientific talks.**
+    Schmälzle, R., Lim, S., Du, Y., & Bente, G.
+    *Frontiers in Communication, 10*.
+    [DOI](https://doi.org/10.3389/fcomm.2025.1610404) | [CODE](github.com/nomcomm/thinslice_public_speaking) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2025llmthinslice.pdf)
 
-#### 2010
-*   Bublatzky, F., ... & **Schmälzle, R.**, ... (2010). The interaction of anticipatory anxiety and emotional picture processing. *Psychophysiology*, 47(4), 687–696.
+* **Inter-subject correlations of pupillary audience responses: Decoding visual attention and predicting memory in a VR media setting.**
+    Schmälzle, R., Wu, J., Lim, S., & Bente, G.
+    *Journal of Media Psychology*.
+    [DOI](https://doi.org/10.1101/2024.01.22.576685) | [CODE](https://github.com/nomcomm/vr_video_pupil_study) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2024parmaisc.pdf)
 
-#### 2009
-*   **Schmälzle, R.** (2009). Intuitive risk perception: A neuroscientific approach. *PhD thesis*, University of Konstanz.
-*   Renner, B., Schupp, H. T., & **Schmälzle, R.** (2009). Risikowahrnehmung und Risikokommunikation. *Handbuch Gesundheitspsychologie und Medizinische Psychologie*.
-*   Stockburger, J., **Schmälzle, R.**, et al. (2009). The impact of hunger on food cue processing. *Neuroimage*, 47(4), 1819–1829.
+* **Reading the Social Clock. Analyzing Nonverbal Coordination Dynamics in Casual Chat and Conflict.**
+    Bente, G., Schmälzle, R., Jahn, N. T., & Reimers, M.
+    *Annals of the New York Academy of Sciences*.
+    [DOI](https://doi.org/10.1111/nyas.70118) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/bente2025socialclock.pdf)
 
-#### 2008
-*   Renner, B., ... & **Schmälzle, R.**, ... (2008). Risk perception, risk communication and health behavior change. *Zeitschrift für Gesundheitspsychologie*.
-*   Schupp, H. T., ... & **Schmälzle, R.**, ... (2008). Visual noise effects on emotion perception. *Neuroreport*, 19(2), 167–171.
+* **Brain imaging as a window into the biological basis of social cognition and communication.**
+    Schmälzle, R., Wilcox, S., & Huskey, R.
+    *In. T. Reimer and L. van Swol, Lyn and A. Florack (Eds.). Handbook of Communication and Social Cognition*.
+    [DOI](https://doi.org/todo) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2025handbookreimers.pdf)
+
+* **Eyes on VR: Unpacking the causal chain between exposure, reception, and retention for emotional billboard messages.**
+    Cho, H. J., Lim, S., Turner, M., Bente, G., & Schmälzle, R.
+    *Human Behavior and Emerging Technologies, 1*.
+    [DOI](https://doi.org/10.1155/hbe2/3619411) | [CODE](https://github.com/nomcomm/vr_billboard_e) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/cho2025eyescausal.pdf)
+
+* **Eye Tracking (Eye Tracking in Political Education Campaigns).**
+    Schmälzle, R.
+    *PRIF (Peace Research Institute Frankfurt) Reports*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2025eye.pdf)
+
+* **Memory inception through gaze-contingent message exposure: Using Virtual Reality to study media influence.**
+    Cho, H. J., Lim, S., Saenz, M., & Schmälzle, R.
+    *bioRxiv*.
+    [DOI](https://doi.org/10.1101/2025.01.08.631803) | [CODE](https://github.com/nomcomm/vr_billboard_p) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/cho2025inception.pdf)
+
+* **Memory inception through gaze-contingent message exposure: Using Virtual Reality to study media influence.**
+    Cho, H. J., Lim, S., Saenz, M., & Schmälzle, R.
+    *Journal of Communication*.
+    [DOI](https://doi.org/10.1093/joc/jqaf048) | [CODE](https://github.com/nomcomm/vr_billboard_p) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/Cho2025.pdf)
+
+* **Speaker responses to audience-induced social-evaluative threat: Evidence from scientific presentation tasks in immersive virtual reality.**
+    Lim, S., Schmälzle, R., & Bente, G.
+    *biorxiv*.
+    [DOI](https://doi.org/10.1101/2025.09.03.673376) | [CODE](https://github.com/nomcomm/NSF_Public_Speaking) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2025speakerresponses.pdf)
+
+### 2024
+
+* **Collective brain alignment during story reception: Shared neural responses in French, Chinese, and English listeners of Le Petit Prince (The Little Prince).**
+    Schmälzle, R., Lim, S., Jahn, N., Wilcox, S., & Ye, Q.
+    *Asian Communication Research, 21(3)*.
+    [DOI](https://doi.org/10.20879/acr.2024.21.024) | [CODE](https://github.com/nomcomm/littleprince_multilingual) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2024littleprincemultilingual.pdf)
+
+* **Exploring the mechanisms of AI message generation: A chatbot development activity for students.**
+    Lim, S. & Schmälzle, R.
+    *Communication Teacher, 38(1)*.
+    [DOI](https://doi.org/10.1080/17404622.2023.2269258) | [CODE](https://github.com/nomcomm/communicaton_teacher_nlg) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2024aiteacher.pdf)
+
+* **The role of theory in media entertainment research.**
+    Tamborini, R., Schmälzle, R., & Bowman, N. D.
+    *In. N. Bowman (Eds). DeGryuter Handbook of Entertainment Media and Communication*.
+    [DOI](https://doi.org/10.1515/9783110792881-047) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/tamborini2024theory.pdf)
+
+* **Portable EEG in groups shows increased brain coupling to strong health messages.**
+    Imhof, M. A., Flösch, K. P., Schmälzle, R., Renner, B., & Schupp, H. T.
+    *Social, Cognitive, and Affective Neuroscience, 19(1)*.
+    [DOI](https://doi.org/10.1093/scan/nsae087) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/imhof2024groups.pdf)
+
+* **Converging crowds and tied twins: Audience brain responses to the same movie are consistent across continents and enhanced among twins.**
+    Schmälzle, R., Lim, S., Bezbaruah, S., Wu, J., & Hussain, S. A.
+    *Journal of Media Psychology, 37(3)*.
+    [DOI](https://doi.org/10.1027/1864-1105/a000422) | [CODE](https://github.com/nomcomm/partlycloudy2) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2024partlytwins.pdf)
+
+* **The effect of source disclosure on evaluation of AI-generated messages: A two-part study.**
+    Lim, S. & Schmälzle, R.
+    *Computers in Human Behavior: Artificial Humans, 2(1)*.
+    [DOI](https://doi.org/10.1016/j.chbah.2024.100058) | [CODE](https://github.com/nomcomm/Evaluation_Vaping_Messages) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2024sourcedisclosure.pdf)
+
+* **Using VR and eye-tracking to study attention to and retention of AI-generated ads in outdoor advertising environments.**
+    Lim, S., Cho, H., Jeon, M., Cui, X., & Schmälzle, R.
+    *bioRxiv*.
+    [DOI](https://doi.org/10.1101/2024.08.15.607684) | [CODE](https://github.com/nomcomm/vr_city_driving) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2024vrcity.pdf)
+
+* **Attention and retention effects of culturally targeted billboard messages: An eye-tracking study using immersive Virtual Reality.**
+    Jeon, M., Lim, S., Lapinski, M., Spates, S., Bente, G., & Schmälzle, R.
+    *bioRxiv*.
+    [DOI](https://www.biorxiv.org/content/10.1101/2024.09.10.610975v1) | [CODE](https://github.com/nomcomm/vr_billboard_t) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/jeon2024vrculturaltargeting.pdf)
+
+* **Charting the silent signals of social gaze: Automating eye contact assessment in face-to-face conversations.**
+    Schmälzle, R., Jahn, N., & Bente, G.
+    *bioRxiv*.
+    [DOI](https://doi.org/todo) | [CODE](https://osf.io/mvpf5/) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlejahn2024socialgaze.pdf)
+
+* **Eyes on VR: Unpacking the causal chain between exposure, reception, and retention for emotional billboard messages.**
+    Cho, H. J., Lim, S., Turner, M., Bente, G., & Schmälzle, R.
+    *bioRxiv*.
+    [DOI](https://doi.org/10.1101/2024.07.19.604208) | [CODE](https://github.com/nomcomm/vr_billboard_e) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/cho2024eyesonvrbiorxiv.pdf)
+
+* **The eyes have it: Inter-subject correlations of pupillary responses for audience response measurement in VR.**
+    Schmälzle, R., Wu, J., Lim, S., & Bente, G.
+    *bioRxiv*.
+    [DOI](https://doi.org/10.1101/2024.01.22.576685) | [CODE](https://github.com/nomcomm/vr_video_pupil_study) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2024vrpupilisc.pdf)
+
+### 2023
+
+* **Confirmation, disconfirmation, and communal coping for joint physical activity in romantic dyads.**
+    Holmstrom, A., Dorrance-Hall, E., Wilcox, S., & Schmälzle, R.
+    *Health Communication, 39(6)*.
+    [DOI](https://doi.org/10.1080/10410236.2023.2201748) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/holmstrom2023confirmation.pdf)
+
+* **Integrating media content analysis, reception analysis, and media effects studies.**
+    Schmälzle, R. & Huskey, R.
+    *Frontiers in Neuroscience (Neuroscience and the Media), 17*.
+    [DOI](https://doi.org/10.3389/fnins.2023.1155750) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2023receptionanalysis.pdf)
+
+* **Moment-by-moment tracking of audience brain responses to an engaging public speech: Replicating the reverse-message engineering approach.**
+    Schmälzle, R., Liu, H., Delle, F., Lewin, K., Jahn, N. T., Zhang, Y., Yoon, H., & Long, J.
+    *Communication Monographs, 91(1)*.
+    [DOI](https://doi.org/10.1080/03637751.2023.2240398) | [CODE](https://github.com/nomcomm/narratives_itsnotthefall) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2023momentbymoment.pdf)
+
+* **Skyhooks, cranes, and the construct dump: A comment on and extension of Boster (2023).**
+    Schmälzle, R. & Huskey, R.
+    *Asian Communication Research, 20(2)*.
+    [DOI](https://doi.org/10.20879/acr.2023.20.016) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2023constructdump.pdf)
+
+* **The effect of source disclosure on evaluation of AI-generated messages: A two-part study.**
+    Lim, S. & Schmälzle, R.
+    *arXiv*.
+    [DOI](https://doi.org/10.48550/arXiv.2311.15544) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2023sourcedisclosure.pdf)
+
+* **Artificial intelligence for health message generation: an empirical study using a large language model (LLM) and prompt engineering.**
+    Lim, S. & Schmälzle, R.
+    *Frontiers in Communication, 8*.
+    [DOI](https://doi.org/10.3389/fcomm.2023.1129082) | [CODE](https://github.com/nomcomm/Message_Engine2) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2023llmprompting.pdf)
+
+* **Measuring the effects of co-location on emotion perception in shared virtual environments: An ecological perspective.**
+    Bente, G., Schmälzle, R., Jahn, N., & Schaaf, A.
+    *Frontiers in Virtual Reality, 9*.
+    [DOI](https://doi.org/10.1057/s41599-022-01461-5) | [CODE](https://pubmed.ncbi.nlm.nih.gov/33501109/) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/bente2023emotionrecognition.pdf)
+
+* **Examining the exposure-reception-retention link in realistic communication environments via VR and eye-tracking: The VR billboard paradigm.**
+    Schmälzle, R., Lim, S., Cho, H. J., Wu, J., & Bente, G.
+    *PlosOne, 18(11)*.
+    [DOI](https://doi.org/10.1101/2023.06.03.543559) | [CODE](https://github.com/nomcomm/vr_billboard_paradigm) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2023vrbillboardplos.pdf)
+
+* **The VR billboard paradigm: Using VR and eye-tracking to examine the exposure-reception-retention link in realistic communication environments.**
+    Schmälzle, R., Lim, S., Cho, H. J., Wu, J., & Bente, G.
+    *bioRxiv*.
+    [DOI](https://doi.org/10.1101/2023.06.03.543559) | [CODE](https://github.com/nomcomm/vr_billboard_paradigm) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2023vrbillboard1.pdf)
+
+### 2022
+
+* **Artificial intelligence for health message generation: An empirical study using a large language model (LLM) and prompt engineering.**
+    Lim, S. & Schmälzle, R.
+    *arXiv*.
+    [DOI](https://doi.org/10.48550/arXiv.2212.07507) | [CODE](https://github.com/nomcomm/message_engine2) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2022promptengineering.pdf)
+
+* **Theory and method for studying how messages prompt shared brain responses along the sensation-to-cognition continuum.**
+    Schmälzle, R.
+    *Communication Theory, 32(4)*.
+    [DOI](https://doi.org/10.1093/ct/qtac009) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2022sharedbrainresponsescommunication.pdf)
+
+* **Harnessing artificial intelligence for health message generation: The folic acid message engine.**
+    Schmälzle, R. & Wilcox, S.
+    *Journal of Medical Internet Research, 22(1)*.
+    [DOI](http://dx.doi.org/10.2196/28858) | [CODE](https://github.com/nomcomm/MessageEngine) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2022messageengine.pdf)
+
+* **Identifying moments of peak audience engagement from brain responses during story listening.**
+    Schmälzle, R., Wilcox, S., & Jahn, N. T.
+    *Communication Monographs, 89(4)*.
+    [DOI](https://doi.org/10.1080/03637751.2022.2032229) | [CODE](https://github.com/nomcomm/narratives_pieman) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2022pieman.pdf)
+
+* **Media neuroscience on a shoestring: Examining electrocortical responses to visual stimuli via mobile EEG.**
+    Jahn, N., Bente, G., Meshi, D., & Schmälzle, R.
+    *Journal of Media Psychology, 35(2)*.
+    [DOI](https://doi.org/10.1027/1864-1105/a000348) | [CODE](https://github.com/nomcomm/MediaNeuroscienceOnAShoestring_JMP) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/jahn2022medianeurosciencemuse.pdf)
+
+* **Examining the relationship between story structure and audience response: How shared brain activity varies over the course of a narrative.**
+    Schmälzle, R., Grady, S. M., & Baldwin, J. A.
+    *Projections - Journal for Movies and Mind, 16(3)*.
+    [DOI](https://doi.org/10.3167/proj.2022.160301) | [CODE](https://github.com/nomcomm/ISC_StoryStructure_Projections) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/grady2022storystructure.pdf)
+
+* **Building blocks of suspense. Subjective and physiological effects of narrative content and film music.**
+    Bente, G., Schmälzle, R., Kryston, K., & Jahn, N.
+    *Nature Humanities and Social Sciences Communications, 9*.
+    [DOI](https://doi.org/10.1057/s41599-022-01461-5) | [CODE](https://osf.io/ny9cw/) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/bente2022soundsuspense.pdf)
+
+### 2021
+
+* **Speaking of values: Value-expressive communication and exercise intentions.**
+    Anderson, J., Lapinski, M., Turner, M., Peng, T., & Schmälzle, R.
+    *Health Communication, 37(10)*.
+    [DOI](https://doi.org/10.1080/10410236.2021.1886398) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/anderson2021values.pdf)
+
+* **Stories collectively engage listeners' brains: Enhanced intersubject correlations during reception of personal narratives.**
+    Grall, C., Weber, R., Tamborini, R., & Schmälzle, R.
+    *Journal of Communication, 71(2)*.
+    [DOI](https://doi.org/10.1093/joc/jqab004) | [CODE](https://osf.io/s4tcj/) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/grall2021personalstories.pdf)
+
+* **Neuroimaging in environmental communication research.**
+    Schmälzle, R., Wilcox, S., & Grall, C.
+    *In. Takahashi, B. Metag, J. Thaker, J. & Evans-Comfort, S.: ICA-Routledge Handbook of International Trends in Environmental Communication*.
+    [DOI](https://doi.org/10.4324/9780367275204) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2021environmental.pdf)
+
+* **A character recognition tool for automatic detection of social characters in visual media content.**
+    Baldwin, J. A. & Schmälzle, R.
+    *Computational Communication Research, 4(1)*.
+    [DOI](https://doi.org/10.5117/CCR2022.1.010.BALD) | [CODE](https://github.com/nomcomm/Character-Recognition-Tool) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/baldwin2021characterrecognition.pdf)
+
+* **Reactance to healthy eating and physical activity messages: Face threat and face management strategies in memorable daily conversations among couples.**
+    Dorrance-Hall, E., Wilcox, S., Holmstrom, A., McGraw, J., & Schmälzle, R.
+    *Health Communication, 38(7)*.
+    [DOI](https://doi.org/10.1080/10410236.2021.2010354) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/dorrance2021dyadic.pdf)
+
+### 2020
+
+* **Neurocinematics.**
+    Grall, C. & Schmälzle, R.
+    *In. J. VanDenBulck & M.-L. Mares: The International Encyclopedia of Media Psychology*.
+    [DOI](https://doi.org/10.1002/9781119011071.iemp0305) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/grall2020neurocinematics.pdf)
+
+* **Marr's tri-level framework integrates biology with communication science.**
+    Huskey, R., Eden, A., Grall, C., Meshi, D., Prena, K., Schmälzle, R., Scholz, C., Turner, B., & Wilcox, S.
+    *Journal of Communication, 70*.
+    [DOI](https://doi.org/10.1093/joc/jqaa007) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/huskey2020marr.pdf)
+
+* **Mediated messages and synchronized brains.**
+    Schmälzle, R. & Grall, C.
+    *In. Floyd & Weber: Handbook of Communication Science and Biology*.
+    [DOI](https://doi.org/10.4324/9781351235587) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2020iscreview.pdf)
+
+* **Psychophysiological methods: Options, uses, and validity.**
+    Schmälzle, R. & Grall, C.
+    *In. J. VanDenBulck & M.-L. Mares: The International Encyclopedia of Media Psychology*.
+    [DOI](https://doi.org/10.1002/9781119011071.iemp0013) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2020psychophysiological.pdf)
+
+* **The effectiveness of online messages for promoting smoking cessation resources: Predicting nationwide campaign effects from neural responses in the EX campaign.**
+    Schmälzle, R., Cooper, N., O'Donnell, M. B., Tompson, S., Lee, S., Cantrell, J., Vettel, J. M., & Falk, E. B.
+    *Frontiers in Human Neuroscience, 14 [Shared frist authorship]*.
+    [DOI](http://dx.doi.org/10.3389/fnhum.2020.565772) | [CODE](https://github.com/nomcomm/TruthEx_Frontiers) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlecooper2020onlinemessages.pdf)
+
+* **The coupled brains of captivated audiences: An investigation of the collective brain dynamics of an audience watching a suspenseful film.**
+    Schmälzle, R. & Grall, C.
+    *Journal of Media Psychology*.
+    [DOI](https://doi.org/todo) | [CODE](https://github.com/nomcomm/CamCanSuspenseISC_JMP) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlegrall2020coupled.pdf)
+
+* **Communication neuroscience: Theory, methodology, and experimental approaches.**
+    Schmälzle, R. & Meshi, D.
+    *Communication Methods and Measures, 1(1)*.
+    [DOI](https://doi.org/10.1080/19312458.2019.1708283) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlemeshi2020commneuro.pdf)
+
+* **Strong health messages increase audience brain coupling.**
+    Imhof, M. A., Schmälzle, R., Renner, B., & Schupp, H. T.
+    *NeuroImage, 216*.
+    [DOI](https://doi.org/10.1016/j.neuroimage.2020.116527) | [CODE](https://osf.io/9mc8b/) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/imhof2020eegisc.pdf)
+
+* **The emerging frontier of interpersonal communication and neuroscience: Scanning the social synapse.**
+    Wilcox, S., Dorrance-Hall, E., Homstrom, A., & Schmälzle, R.
+    *Annals of the International Communication Association, 44(4)*.
+    [DOI](https://doi.org/10.1080/23808985.2020.1843366) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/wilcox2020socialsynapse.pdf)
+
+### 2019
+
+* **Adolescent neural responses to antismoking messages, perceived effectiveness, and sharing intention.**
+    Kranzler, E. C., Schmälzle, R., O'Donnell, M. B., Pei, R., & Falk, E. B.
+    *Media Psychology, 22(2)*.
+    [DOI](https://doi.org/10.1080/15213269.2018.1476158) | [CODE](https://osf.io/gz5uv/) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/kranzler2019adolescents.pdf)
+
+* **Message-elicited brain response moderates the relationship between opportunities for exposure to anti-smoking messages and message recall.**
+    Kranzler, E. C., Schmälzle, R., O'Donnell, M. B., Pei, R., & Falk, E. B.
+    *Journal of Communication, 69(5)*.
+    [DOI](https://doi.org/10.1093/joc/jqz035) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/kranzler2019moderation.pdf)
+
+* **Adolescents' neural response to tobacco prevention messages and sharing engagement.**
+    Pei, R., Schmälzle, R., Kranzler, E. C., O'Donnell, M. B., & Falk, E. B.
+    *American Journal of Preventive Medicine, 56(2S1)*.
+    [DOI](https://doi.org/10.1016/j.amepre.2018.07.044) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/pei2019adolescents.pdf)
+
+* **Visual cues that predict intuitive risk perception in the case of HIV.**
+    Schmälzle, R., Hartung, F., Barth, A., Imhof, M. A., Kenter, A., Renner, B., & Schupp, H. T.
+    *PLoS One, 14(2)*.
+    [DOI](http://dx.doi.org/10.1371/journal.pone.0211770) | [CODE](https://github.com/nomcomm/RiskCues_PlosOne) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2019cues.pdf)
+
+* **Impressions of HIV risk online: Brain potentials while viewing online dating profiles.**
+    Schmälzle, R., Imhof, M. A., Kenter, A., Renner, B., & Schupp, H. T.
+    *Cognitive, Affective and Behavioral Neuroscience, 14(2)*.
+    [DOI](https://doi.org/10.3758/s13415-019-00731-1) | [CODE](https://github.com/nomcomm/RiskProfiles_CABN) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2019onlinedating.pdf)
+
+* **Impressions of HIV risk online: Brain potentials while viewing online dating profiles.**
+    Schmälzle, R., Imhof, M. A., Kenter, A., Renner, B., & Schupp, H. T.
+    *Cognitive, Affective and Behavioral Neuroscience, 14(2)*.
+    [DOI](https://doi.org/10.3758/s13415-019-00731-1) | [CODE](https://github.com/nomcomm/RiskProfiles_CABN) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/Schmaelzle2019.pdf)
+
+### 2018
+
+* **Video games: A medium that demands our attention.**
+    Kryston, K., Novotny, E., Schmälzle, R., & Tamborini, R.
+    [DOI](https://www.routledge.com/Video-Games-A-Medium-That-Demands-Our-Attention-1st-Edition/Bowman/p/book/9780815376897) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/kryston2018social.pdf)
+
+* **An attitude network analysis of post-national citizenship identities.**
+    Schlicht-Schmälzle, R., Chykina, V., & Schmälzle, R.
+    *PLoS One, 13(12)*.
+    [DOI](https://doi.org/10.1371/journal.pone.0208241) | [CODE](https://github.com/nomcomm/GlobalCitizenship_EVS) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schlicht2018network.pdf)
+
+### 2017
+
+* **How real-life health messages engage our brains: Shared processing of effective anti-alcohol videos.**
+    Imhof, M. A., Schmälzle, R., Renner, B., & Schupp, H. T.
+    *Social, Cognitive, and Affective Neuroscience, 12(7)*.
+    [DOI](http://dx.doi.org/10.1093/scan/nsx044) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/imhof2017how.pdf)
+
+* **Brain connectivity dynamics during social interaction reflect social network structure.**
+    Schmälzle, R., Brook O'Donnell, M., Garcia, J. O., Cascio, C. N., Bayer, J., Vettel, J., Bassett, D., & Falk, E. B.
+    *Proceedings of the National Academy of Sciences, 114(20)*.
+    [DOI](http://dx.doi.org/10.1073/pnas.1616130114) | [CODE](https://github.com/nomcomm/BrainConnectivitySocialNetwork_PNAS) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2017connectivity.pdf)
+
+* **Reliability of fMRI time series: Similarity of neural processing during movie viewing.**
+    Schmälzle, R., Imhof, M. A., Grall, C., Flaisch, T., & Schupp, H. T.
+    *biorxiv*.
+    [DOI](https://doi.org/10.1101/158188) | [CODE](https://github.com/nomcomm/reliability_project) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2017fmrireliability.pdf)
+
+* **Health risk perception and risk communication.**
+    Schmälzle, R., Renner, B., & Schupp, H. T.
+    *Policy Insights from the Behavioral and Brain Sciences*.
+    [DOI](http://dx.doi.org/10.1177%2F2372732217720223) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2017healthrisk2.pdf)
+
+### 2016
+
+* **Newly-formed emotional memories guide selective attention processes: Evidence from event-related potentials.**
+    Schupp, H. T., Kirmse, U., Schmälzle, R., Flaisch, T., & Renner, B.
+    *Scientific Reports, 6*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schupp2016newly.pdf)
+
+### 2015
+
+* **How target and perceiver gender affect impressions of HIV risk.**
+    Barth, A., Schmälzle, R., Hartung, F., Britta Renner, & Schupp, H. T.
+    *Frontiers in Public Health, section HIV and AIDS, 3(1)*.
+    [DOI](http://dx.doi.org/10.3389/fpubh.2015.00223) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/barth2015how.pdf)
+
+* **Thirst and the state-dependent representation of incentive stimulus value in human motive circuitry.**
+    Becker, C., Schmälzle, R., Flaisch, T., & Schupp, H. T.
+    *Social, Cognitive, and Affective Neurosciences, 10(12)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/becker2015thirst.pdf)
+
+* **Implicit and explicit attention to pictures and words: An fMRI-study of concurrent emotional stimulus processing.**
+    Flaisch, T., Imhof, M., Schmälzle, R., Wentz, K., Ibach, B., & Schupp, H. T.
+    *Frontiers in Psychology, 6(1)*.
+    [DOI](http://dx.doi.org/10.3389/fpsyg.2015.01861) | [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/flaisch2015implicit.pdf)
+
+* **Health risk perception.**
+    Renner, B., Gamp, M., Schmälzle, R., & Schupp, H. T.
+    *International Encyclopedia of the Social & Behavioral Sciences, 10*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/renner2015healthrisk.pdf)
+
+* **Engaged listeners: Shared neural processing of powerful political speeches.**
+    Schmälzle, R., Häcker, F., Honey, C. J., & Hasson, U.
+    *Social, Cognitive, and Affective Neurosciences, 1*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2015engaged.pdf)
+
+### 2014
+
+* **Neural correlates of HIV risk feelings.**
+    Häcker, F., Schmälzle, R., Renner, B., & Schupp, H. T.
+    *Social Cognitive and Affective Neuroscience, doi:10.1093/scan/nsu093(nsu093)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/haecker2014neural.pdf)
+
+* **Explicit semantic stimulus categorization interferes with implicit emotion processing.**
+    Schupp, H. T., Schmälzle, R., & Flaisch, T.
+    *Social Cognitive and Affective Neuroscience, 9*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schupp2014explicit.pdf)
+
+### 2013
+
+* **Neural correlates of risk perception during real-life risk communication.**
+    Schmälzle, R., Häcker, F., Renner, B., Honey, C. J., & Schupp, H. T.
+    *Journal of Neuroscience, 33(25)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2013neural.pdf)
+
+* **Neural correlates of risk perception: HIV vs. leukemia.**
+    Barth, A., Schmälzle, R., Renner, B., & Schupp, H. T.
+    *Frontiers in Behavioral Neuroscience, 7(1)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/barth2013hiv.pdf)
+
+### 2012
+
+* **First impressions of HIV risk: it takes only milliseconds to scan a stranger.**
+    Renner, B., Schmälzle, R., & Schupp, H. T.
+    *PloS One, 7(1)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/renner2012first.pdf)
+
+* **Neural correlates of perceived risk: the case of HIV.**
+    Schmälzle, R., Renner, B., & Schupp, H. T.
+    *Social Cognitive and Affective Neuroscience, 7(6)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2012neural.pdf)
+
+* **Affective picture processing as a function of preceding picture valence: An ERP analysis.**
+    Schupp, H. T., Schmälzle, R., Flaisch, T., Weike, A. I., & Hamm, A. O.
+    *Biological Psychology, 91(1)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schupp2012affective.pdf)
+
+### 2011
+
+* **Implicit and explicit processes in risk perception: neural antecedents of perceived HIV risk.**
+    Schmälzle, R., Schupp, H. T., Barth, A., & Renner, B.
+    *Frontiers in Human Neuroscience, 5(1)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2011implicit.pdf)
+
+### 2010
+
+* **The interaction of anticipatory anxiety and emotional picture processing: An event-related brain potential study.**
+    Bublatzky, F., Flaisch, T., Stockburger, J., Schmälzle, R., & Schupp, H. T.
+    *Psychophysiology, 47(4)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/bublatzky2010interaction.pdf)
+
+### 2009
+
+* **Risikowahrnehmung und Risikokommunikation.**
+    Renner, B., Schupp, H. T., & Schmälzle, R.
+    *Handbuch ü Gesundheitspsychologie und Medizinische Psychologie, 16(3)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/renner2009risikowahrnehmung.pdf)
+
+* **Intuitive risk perception: A neuroscientific approach.**
+    Schmälzle, R.
+    *PhD thesis, -*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2009intuitive.pdf)
+
+* **The impact of hunger on food cue processing: an event-related brain potential study.**
+    Stockburger, J., Schmälzle, R., Flaisch, T., Bublatzky, F., & Schupp, H. T.
+    *Neuroimage, 47(4)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/stockburger2009impact.pdf)
+
+### 2008
+
+* **Risk perception, risk communication and health behavior change.**
+    Renner, B., Schupp, H., Vollmann, M., Hartung, F., Schmälzle, R., & Panzer, M.
+    *Zeitschrift für Gesundheitspsychologie, 16(3)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/renner2008risk.pdf)
+
+* **Visual noise effects on emotion perception: brain potentials and stimulus identification.**
+    Schupp, H. T., Stockburger, J., Schmälzle, R., Bublatzky, F., Weike, A. I., & Hamm, A. O.
+    *Neuroreport, 19(2)*.
+    [PDF](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schupp2008visual.pdf)
+
