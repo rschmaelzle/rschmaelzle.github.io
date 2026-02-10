@@ -53,7 +53,7 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 ### In Press / Preprints
 
-* Schmälzle, R. & Lim, S. (in press). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *The Forensic of Pi Kappa Delta.*
+* Schmälzle, R. & Lim, S. (submitted). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *The Forensic of Pi Kappa Delta.*
 
 ### 2026
 
