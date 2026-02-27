@@ -63,6 +63,8 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * Jeon, M., Lim, S., Lapinski, M., Spates, S., Bente, G., & Schmälzle, R. (2026). **Visual attention and retention effects of a design element in culturally targeted messages: Introducing the Virtual Billboard Paradigm.** *Communication Quarterly, 1-31.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/jeon2026cultural.pdf) [[CODE]](https://github.com/nomcomm/vr_billboard_t) [[DOI]](https://doi.org/10.1080/01463373.2026.2629568)
 
+* Schmälzle, R., Lim, S., Du, Y., & Bente, G. (2026). **The Moment of Capture: How the First Seconds of a Speaker's Nonverbal and Verbal Performance Shapes Audience Judgments.** *arXiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2026nonverbalps.pdf) [[CODE]](https://github.com/nomcomm/nonverbal_ps) [[DOI]](https://doi.org/pending)
+
 ### 2025
 
 * Pena, J., Huskey, R., Gong, X., Andrews, M., Weisman, W., Kee, R., Klein, V., Sarieva S, K. R., Schmälzle, R., & Hancock, J. (2025). **Media Neuroscience on a shoestring 2.0: Using AR and mobile EEG hyperscanning to study cooperation.** *Journal of Media Psychology.* [[CODE]](https://github.com/cogcommscience-lab/muse_artgram) [[DOI]](https://doi.org/10.1027/1864-1105/a000462)
