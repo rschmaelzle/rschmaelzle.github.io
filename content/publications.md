@@ -59,7 +59,7 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * Lim, S., Schmälzle, R., & Bente, G. (2026). **Examining speakers' subjective and bio-behavioral responses to audience-induced social-evaluative threat via immersive VR.** *Scientific Reports.* [[CODE]](https://github.com/nomcomm/speaker_responses_audience) [[DOI]](https://doi.org/10.1101/2025.09.03.673376)
 
-* Schmälzle, R., Cho, H. J., & Turner, M. (2026). **The Signal in the Noise: Hierarchy and Robustness of Physiological Audience Alignment during Narrative Media.** *biorxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2026partlyphysio.pdf) [[CODE]](https://github.com/nomcomm/PC_HJ) [[DOI]](https://doi.org/10.64898/2026.02.05.703516)
+* Schmälzle, R., Cho, H. J., & Turner, M. (2026). **The signal in the noise: Hierarchy and robustness of physiological audience alignment during narrative media.** *biorxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2026partlyphysio.pdf) [[CODE]](https://github.com/nomcomm/PC_HJ) [[DOI]](https://doi.org/10.64898/2026.02.05.703516)
 
 * Jeon, M., Lim, S., Lapinski, M., Spates, S., Bente, G., & Schmälzle, R. (2026). **Visual attention and retention effects of a design element in culturally targeted messages: Introducing the Virtual Billboard Paradigm.** *Communication Quarterly, 1-31.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/jeon2026cultural.pdf) [[CODE]](https://github.com/nomcomm/vr_billboard_t) [[DOI]](https://doi.org/10.1080/01463373.2026.2629568)
 
