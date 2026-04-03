@@ -49,15 +49,19 @@ Artificial Intelligence (AI) has enormous implications for communication because
 {{< /accordion >}}
 
 
-## Publications
+# Publications
 
 ### In Press / Preprints
 
-* Schmälzle, R. & Lim, S. (submitted). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *The Forensic of Pi Kappa Delta.*
+* Schmälzle, R. & Lim, S. (Submitted/In press). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *The Forensic of Pi Kappa Delta.*
+
+* Segal, R., Matan, L., Schmälzle R., & Ben-Zion, Y. (Submitted/In press). **Computational Analysis of Speech Clarity Predicts Audience Engagement in TED Talks.** *td.*
 
 ### 2026
 
-* Lim, S., Schmälzle, R., & Bente, G. (2026). **Examining speakers' subjective and bio-behavioral responses to audience-induced social-evaluative threat via immersive VR.** *Scientific Reports.* [[CODE]](https://github.com/nomcomm/speaker_responses_audience) [[DOI]](https://doi.org/10.1101/2025.09.03.673376)
+* Schmälzle, R., Jahn, N., & Bente, G. (2026). **Charting the silent signals of social gaze: Automating eye contact assessment in face-to-face conversations.** *Communication Quarterly.* [[CODE]](https://osf.io/mvpf5/) [[DOI]](https://doi.org/10.1080/01463373.2026.2656429)
+
+* Lim, S., Schmälzle, R., & Bente, G. (2026). **Examining speakers' subjective and bio-behavioral responses to audience-induced social-evaluative threat via immersive VR.** *Scientific Reports.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2026speakervr.pdf) [[CODE]](https://github.com/nomcomm/speaker_responses_audience) [[DOI]](https://doi.org/10.1038/s41598-026-38915-8)
 
 * Schmälzle, R., Cho, H. J., & Turner, M. (2026). **The signal in the noise: Hierarchy and robustness of physiological audience alignment during narrative media.** *biorxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2026partlyphysio.pdf) [[CODE]](https://github.com/nomcomm/PC_HJ) [[DOI]](https://doi.org/10.64898/2026.02.05.703516)
 
@@ -69,7 +73,7 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * Pena, J., Huskey, R., Gong, X., Andrews, M., Weisman, W., Kee, R., Klein, V., Sarieva S, K. R., Schmälzle, R., & Hancock, J. (2025). **Media Neuroscience on a shoestring 2.0: Using AR and mobile EEG hyperscanning to study cooperation.** *Journal of Media Psychology.* [[CODE]](https://github.com/cogcommscience-lab/muse_artgram) [[DOI]](https://doi.org/10.1027/1864-1105/a000462)
 
-* Schmälzle, R., Lim, S., Du, Y., & Bente, G. (2025). **The art of audience engagement: LLM-based thin-slicing of scientific talks.** *arXiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2025thinslicellm.pdf) [[CODE]](https://github.com/nomcomm/thinslice_ps)
+* Schmälzle, R., Lim, S., Du, Y., & Bente, G. (2025). **The art of audience engagement: LLM-based thin-slicing of scientific talks.** *arXiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2025thinslicellm.pdf) [[CODE]](https://github.com/nomcomm/thinslice_ps) [[DOI]](https://doi.org/10.48550/arXiv.2504.10768)
 
 * Huskey, R. & Schmälzle, R. (2025). **Finding middle ground In cognitive media psychology.** *In. N. Bowman & N.D. Shackleford (Eds). Oxford Handbook of Media Psychology, 1.*
 
@@ -91,7 +95,7 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * Bente, G., Schmälzle, R., Jahn, N. T., & Reimers, M. (2025). **Reading the Social Clock. Analyzing Nonverbal Coordination Dynamics in Casual Chat and Conflict.** *Annals of the New York Academy of Sciences.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/bente2025socialclock.pdf) [[DOI]](https://doi.org/10.1111/nyas.70118)
 
-* Schmälzle, R., Wilcox, S., & Huskey, R. (2025). **Brain imaging as a window into the biological basis of social cognition and communication.** *In. T. Reimer and L. van Swol, Lyn and A. Florack (Eds.). Handbook of Communication and Social Cognition.* [[DOI]](https://doi.org/todo)
+* Schmälzle, R., Wilcox, S., & Huskey, R. (2025). **Brain imaging as a window into the biological basis of social cognition and communication.** *In. T. Reimer and L. van Swol, Lyn and A. Florack (Eds.). Handbook of Communication and Social Cognition.* [[DOI]](https://doi.org/10.4324/9781003411741-46)
 
 * Cho, H. J., Lim, S., Turner, M., Bente, G., & Schmälzle, R. (2025). **Eyes on VR: Unpacking the causal chain between exposure, reception, and retention for emotional billboard messages.** *Human Behavior and Emerging Technologies, 1, 3619411.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/cho2025eyescausal.pdf) [[CODE]](https://github.com/nomcomm/vr_billboard_e) [[DOI]](https://doi.org/10.1155/hbe2/3619411)
 
@@ -121,11 +125,11 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * Jeon, M., Lim, S., Lapinski, M., Spates, S., Bente, G., & Schmälzle, R. (2024). **Attention and retention effects of culturally targeted billboard messages: An eye-tracking study using immersive Virtual Reality.** *bioRxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/jeon2024vrculturaltargeting.pdf) [[CODE]](https://github.com/nomcomm/vr_billboard_t) [[DOI]](https://www.biorxiv.org/content/10.1101/2024.09.10.610975v1)
 
-* Schmälzle, R., Jahn, N., & Bente, G. (2024). **Charting the silent signals of social gaze: Automating eye contact assessment in face-to-face conversations.** *bioRxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlejahn2024socialgaze.pdf) [[CODE]](https://osf.io/mvpf5/) [[DOI]](https://doi.org/todo)
-
 * Cho, H. J., Lim, S., Turner, M., Bente, G., & Schmälzle, R. (2024). **Eyes on VR: Unpacking the causal chain between exposure, reception, and retention for emotional billboard messages.** *bioRxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/cho2024eyesonvrbiorxiv.pdf) [[CODE]](https://github.com/nomcomm/vr_billboard_e) [[DOI]](https://doi.org/10.1101/2024.07.19.604208)
 
 * Schmälzle, R., Wu, J., Lim, S., & Bente, G. (2024). **The eyes have it: Inter-subject correlations of pupillary responses for audience response measurement in VR.** *bioRxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2024vrpupilisc.pdf) [[CODE]](https://github.com/nomcomm/vr_video_pupil_study) [[DOI]](https://doi.org/10.1101/2024.01.22.576685)
+
+* Schmälzle, R., Jahn, N., & Bente, G. (2024). **Charting the silent signals of social gaze: Automating eye contact assessment in face-to-face conversations.** *bioRxiv.* [[CODE]](https://osf.io/mvpf5/) [[DOI]](https://doi.org/10.1101/2024.08.28.610064)
 
 ### 2023
 
@@ -187,7 +191,7 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * Schmälzle, R., Cooper, N., O'Donnell, M. B., Tompson, S., Lee, S., Cantrell, J., Vettel, J. M., & Falk, E. B. (2020). **The effectiveness of online messages for promoting smoking cessation resources: Predicting nationwide campaign effects from neural responses in the EX campaign.** *Frontiers in Human Neuroscience, 14 [Shared frist authorship].* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlecooper2020onlinemessages.pdf) [[CODE]](https://github.com/nomcomm/TruthEx_Frontiers) [[DOI]](http://dx.doi.org/10.3389/fnhum.2020.565772)
 
-* Schmälzle, R. & Grall, C. (2020). **The coupled brains of captivated audiences: An investigation of the collective brain dynamics of an audience watching a suspenseful film.** *Journal of Media Psychology, 1-13 [Shared frist authorship].* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlegrall2020coupled.pdf) [[CODE]](https://github.com/nomcomm/CamCanSuspenseISC_JMP) [[DOI]](https://doi.org/todo)
+* Schmälzle, R. & Grall, C. (2020). **The coupled brains of captivated audiences: An investigation of the collective brain dynamics of an audience watching a suspenseful film.** *Journal of Media Psychology, 1-13 [Shared frist authorship].* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlegrall2020coupled.pdf) [[CODE]](https://github.com/nomcomm/CamCanSuspenseISC_JMP) [[DOI]](https://doi.org/10.1027/1864-1105/a000271)
 
 * Schmälzle, R. & Meshi, D. (2020). **Communication neuroscience: Theory, methodology, and experimental approaches.** *Communication Methods and Measures, 1(1), 1-16 [Shared first authorship].* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzlemeshi2020commneuro.pdf) [[DOI]](https://doi.org/10.1080/19312458.2019.1708283)
 
@@ -282,5 +286,4 @@ Artificial Intelligence (AI) has enormous implications for communication because
 * Renner, B., Schupp, H., Vollmann, M., Hartung, F., Schmälzle, R., & Panzer, M. (2008). **Risk perception, risk communication and health behavior change.** *Zeitschrift für Gesundheitspsychologie, 16(3), 150–153.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/renner2008risk.pdf)
 
 * Schupp, H. T., Stockburger, J., Schmälzle, R., Bublatzky, F., Weike, A. I., & Hamm, A. O. (2008). **Visual noise effects on emotion perception: brain potentials and stimulus identification.** *Neuroreport, 19(2), 167–171.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schupp2008visual.pdf)
-
 
