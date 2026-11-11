@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kapelle in Ihrem Raum</title>
+<meta name="description" content="Virtuelle Sakrale Bauten: Stellen Sie eine Kapelle in Ihr Zimmer – mit Ihrem Smartphone.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+<style>
+  :root { --night: #161A2E; --ink: #F7F2E8; --soft: #C9CCDA; --gold: #E3B55B; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--night); color: var(--ink); font-family: 'DM Sans', system-ui, sans-serif; }
+  body { display: flex; flex-direction: column; min-height: 100dvh; }
+  header { padding: 24px 20px 0; text-align: center; }
+  h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600; font-size: clamp(30px, 7vw, 48px); line-height: 1.1; margin: 0 0 8px; }
+  header p { margin: 0; color: var(--soft); font-size: 18px; }
+  model-viewer {
+    flex: 1; width: 100%; min-height: 380px;
+    background: radial-gradient(ellipse at 50% 40%, #3A3352 0%, var(--night) 70%);
+    --poster-color: transparent;
+  }
+  .ar-btn {
+    position: absolute; left: 50%; bottom: 24px; transform: translateX(-50%);
+    background: var(--gold); color: var(--night); border: 0; border-radius: 999px;
+    padding: 18px 30px; font: 700 20px 'DM Sans', system-ui, sans-serif; white-space: nowrap;
+    box-shadow: 0 8px 30px rgba(227, 181, 91, .35);
+  }
+  .hint { padding: 16px 20px 28px; text-align: center; color: var(--soft); font-size: 17px; line-height: 1.5; }
+  .hint b { color: var(--ink); }
+  .desktop-only { display: none; }
+  body.no-ar .desktop-only { display: block; }
+  body.no-ar .phone-only { display: none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Eine Kapelle in Ihrem Raum</h1>
+  <p>Virtuelle Sakrale Bauten · St. Konrad Grävenwiesbach</p>
+</header>
+
+<model-viewer id="mv" src="kapelle.glb" alt="Eine kleine Kapelle mit Turm und leuchtenden Fenstern"
+  ar ar-modes="webxr scene-viewer quick-look" ar-placement="floor" ar-scale="auto"
+  camera-controls touch-action="pan-y" auto-rotate auto-rotate-delay="0" rotation-per-second="18deg"
+  camera-orbit="35deg 72deg 120%" camera-target="auto 0.17m auto" min-camera-orbit="auto auto 60%" max-camera-orbit="auto auto 250%"
+  shadow-intensity="1.2" shadow-softness="0.8" exposure="1.1" environment-image="neutral"
+  interaction-prompt="none">
+  <button slot="ar-button" class="ar-btn">In meinem Raum ansehen</button>
+</model-viewer>
+
+<div class="hint phone-only">
+  Tippen Sie auf <b>„In meinem Raum ansehen“</b>, erlauben Sie die Kamera und richten Sie das Handy auf einen Tisch oder den Boden.
+  Dann gehen Sie einfach um die Kapelle herum.
+</div>
+<div class="hint desktop-only">
+  Am Computer können Sie die Kapelle mit der Maus drehen.<br>
+  Ganz in Ihrem Raum erscheint sie, wenn Sie diese Seite <b>auf dem Smartphone</b> öffnen.
+</div>
+
+<script type="module">
+  const mv = document.getElementById('mv');
+  mv.addEventListener('load', () => {
+    if (!mv.canActivateAR) document.body.classList.add('no-ar');
+  });
+</script>
+</body>
+</html>
