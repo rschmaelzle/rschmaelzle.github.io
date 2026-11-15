@@ -59,19 +59,13 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * **Schmälzle, R.**, Du, Y., Lim, S., & Bente, G. (2026). **The moment of capture: How the first seconds of a speaker's nonverbal and verbal performance shapes audience judgments.** *In press at Communication and Change.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2026nonverbalps.pdf) [[CODE]](https://github.com/nomcomm/nonverbal_ps) [[PREPRINT]](https://arxiv.org/abs/2602.23920)
 
-* **Schmälzle, R.**, Lim, S., & Cho, H. J. (2026). **Physiological impact of media use.** *Book chapter submitted.*
-
 * **Schmälzle, R.** & Sondhi, M. (2026). **Audience synchronization and laughter-associated modulation across six seasons of Friends.** *In press at Journal of Media Psychology.*
-
-* Lim, S., **Schmälzle, R.**, & Bente, G. (2025). **Technological advances in communication.** *Book chapter submitted; joint first authors.*
 
 * Sam, K., **Schmälzle, R.**, Eden, A., Jackowski, J., Plantinga, C., & Levin, D. (2025). **Investigating cinematic engagement and reflection using neural synchrony.** *Manuscript submitted.*
 
 * **Schmälzle, R.** & Lim, S. (2025). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *In press at The Forensic of Pi Kappa Delta.*
 
 * Lim, S., Cho, H. J., Jeon, M., Cui, X., & **Schmälzle, R.** (2024). **Using VR and eye-tracking to study attention to and retention of AI-generated ads in outdoor advertising environments.** *In press at Journal of Media Psychology.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2024vrcity.pdf) [[CODE]](https://github.com/nomcomm/vr_city_driving) [[PREPRINT]](https://doi.org/10.1101/2024.08.15.607684)
-
-* **Schmälzle, R.**, Imhof, M. A., Grall, C., Flaisch, T., & Schupp, H. T. (2017). **Reliability of fMRI time series: Similarity of neural processing during movie viewing.** *Preprint on bioRxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2017fmrireliability.pdf) [[CODE]](https://github.com/nomcomm/reliability_project) [[PREPRINT]](https://doi.org/10.1101/158188)
 
 ### 2026
 
@@ -212,6 +206,8 @@ Artificial Intelligence (AI) has enormous implications for communication because
 ### 2017
 
 * Imhof, M. A., **Schmälzle, R.**, Renner, B., & Schupp, H. T. (2017). **How real-life health messages engage our brains: Shared processing of effective anti-alcohol videos.** *Social Cognitive and Affective Neuroscience, 12(7), 1188–1196.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/imhof2017how.pdf) [[DOI]](https://doi.org/10.1093/scan/nsx044)
+
+* **Schmälzle, R.**, Imhof, M. A., Grall, C., Flaisch, T., & Schupp, H. T. (2017). **Reliability of fMRI time series: Similarity of neural processing during movie viewing.** *Preprint on bioRxiv.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2017fmrireliability.pdf) [[CODE]](https://github.com/nomcomm/reliability_project) [[PREPRINT]](https://doi.org/10.1101/158188)
 
 * **Schmälzle, R.**, O'Donnell, M. B., Garcia, J. O., Cascio, C. N., Bayer, J., Bassett, D. S., Vettel, J. M., & Falk, E. B. (2017). **Brain connectivity dynamics during social interaction reflect social network structure.** *Proceedings of the National Academy of Sciences, 114(20), 5153–5158.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2017connectivity.pdf) [[CODE]](https://github.com/nomcomm/BrainConnectivitySocialNetwork_PNAS) [[DOI]](https://doi.org/10.1073/pnas.1616130114)
 
