@@ -61,8 +61,6 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * **Schmälzle, R.** & Sondhi, M. (2026). **Audience synchronization and laughter-associated modulation across six seasons of Friends.** *In press at Journal of Media Psychology.*
 
-* Sam, K., **Schmälzle, R.**, Eden, A., Jackowski, J., Plantinga, C., & Levin, D. (2025). **Investigating cinematic engagement and reflection using neural synchrony.** *Manuscript submitted.*
-
 * **Schmälzle, R.** & Lim, S. (2025). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *In press at The Forensic of Pi Kappa Delta.*
 
 * Lim, S., Cho, H. J., Jeon, M., Cui, X., & **Schmälzle, R.** (2024). **Using VR and eye-tracking to study attention to and retention of AI-generated ads in outdoor advertising environments.** *In press at Journal of Media Psychology.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2024vrcity.pdf) [[CODE]](https://github.com/nomcomm/vr_city_driving) [[PREPRINT]](https://doi.org/10.1101/2024.08.15.607684)
