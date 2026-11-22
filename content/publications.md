@@ -59,7 +59,7 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * **Schmälzle, R.**, Du, Y., Lim, S., & Bente, G. (2026). **The moment of capture: How the first seconds of a speaker's nonverbal and verbal performance shapes audience judgments.** *In press at Communication and Change.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2026nonverbalps.pdf) [[CODE]](https://github.com/nomcomm/nonverbal_ps) [[PREPRINT]](https://arxiv.org/abs/2602.23920)
 
-* **Schmälzle, R.** & Sondhi, M. (2026). **Audience synchronization and laughter-associated modulation across six seasons of Friends.** *In press at Journal of Media Psychology.*
+* **Schmälzle, R.** & Sondhi, M. (2026). **The one where the brains sync: Audience synchronization and laughter-associated modulation across six seasons of Friends.** *In press at Journal of Media Psychology.*
 
 * **Schmälzle, R.** & Lim, S. (2025). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *In press at The Forensic of Pi Kappa Delta.*
 
