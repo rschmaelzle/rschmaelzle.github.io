@@ -61,8 +61,6 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * **Schmälzle, R.** & Sondhi, M. (2026). **The one where the brains sync: Audience synchronization and laughter-associated modulation across six seasons of Friends.** *In press at Journal of Media Psychology.*
 
-* **Schmälzle, R.** & Lim, S. (2025). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *In press at The Forensic of Pi Kappa Delta.*
-
 * Lim, S., Cho, H. J., Jeon, M., Cui, X., & **Schmälzle, R.** (2024). **Using VR and eye-tracking to study attention to and retention of AI-generated ads in outdoor advertising environments.** *In press at Journal of Media Psychology.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2024vrcity.pdf) [[CODE]](https://github.com/nomcomm/vr_city_driving) [[PREPRINT]](https://doi.org/10.1101/2024.08.15.607684)
 
 ### 2026
@@ -78,6 +76,8 @@ Artificial Intelligence (AI) has enormous implications for communication because
 * **Schmälzle, R.**, Jahn, N. T., & Bente, G. M. (2026). **Charting the silent signals of social gaze: A study of eye contact in face-to-face conversations.** *Communication Quarterly, 74(3), 247–263.* [[CODE]](https://osf.io/mvpf5/) [[DOI]](https://doi.org/10.1080/01463373.2026.2656429)
 
 * **Schmälzle, R.** & Lim, S. (2026). **From blank page to campaign plan: Using the campAIgnR AI tool to scaffold public communication campaign design.** *Communication Teacher, 40(2), 160–169.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/schmaelzle2025campaignr.pdf) [[CODE]](https://github.com/nomcomm/campaignr) [[DOI]](https://doi.org/10.1080/17404622.2025.2545366)
+
+* **Schmälzle, R.** & Lim, S. (2026). **A neuroscientific window into the audience brain: Capturing how rhetoric creates resonance.** *The Forensic of Pi Kappa Delta, 108(1), 17–26.* [[PDF]](/papers/schmaelzle2025neuroscientific.pdf)
 
 * **Schmälzle, R.**, Wilcox, S., & Huskey, R. (2026). **Brain imaging as a window into the biological basis of social cognition and communication.** *In *The Routledge Handbook of Communication and Social Cognition* (pp. 446–456).* [[DOI]](https://doi.org/10.4324/9781003411741-46)
 
