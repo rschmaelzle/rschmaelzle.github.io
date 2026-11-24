@@ -61,13 +61,13 @@ Artificial Intelligence (AI) has enormous implications for communication because
 
 * **Schmälzle, R.** & Sondhi, M. (2026). **The one where the brains sync: Audience synchronization and laughter-associated modulation across six seasons of Friends.** *In press at Journal of Media Psychology.*
 
-* Lim, S., Cho, H. J., Jeon, M., Cui, X., & **Schmälzle, R.** (2024). **Using VR and eye-tracking to study attention to and retention of AI-generated ads in outdoor advertising environments.** *In press at Journal of Media Psychology.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2024vrcity.pdf) [[CODE]](https://github.com/nomcomm/vr_city_driving) [[PREPRINT]](https://doi.org/10.1101/2024.08.15.607684)
-
 ### 2026
 
 * Cho, H. J., Lim, S., Saenz, M., & **Schmälzle, R.** (2026). **Memory inception through gaze-contingent message exposure: Using virtual reality to study media influence.** *Journal of Communication, 76, 223–235.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/cho2025inception.pdf) [[CODE]](https://github.com/nomcomm/vr_billboard_p) [[DOI]](https://doi.org/10.1093/joc/jqaf048)
 
 * Jeon, M., Lim, S., Lapinski, M. K., Spates, S. A., Bente, G., & **Schmälzle, R.** (2026). **Visual attention and retention effects of a design element in culturally targeted messages: Introducing the virtual billboard paradigm.** *Communication Quarterly, 74(2), 165–195.* [[PDF]](/papers/schmaelzle2026using.pdf) [[CODE]](https://github.com/nomcomm/vr_billboard_t) [[DOI]](https://doi.org/10.1080/01463373.2026.2629568)
+
+* Lim, S., Cho, H. J., Jeon, M., Cui, X., & **Schmälzle, R.** (2026). **Immersive media messages that catch the eye: Examining factors that elicit attention and replicating the link between attention and memory.** *Journal of Media Psychology. Advance online publication.* [[PDF]](http://www.ralfschmaelzle.net/wp-content/papercite-data/pdf/lim2024vrcity.pdf) [[CODE]](https://github.com/nomcomm/vr_city_driving) [[DOI]](https://doi.org/10.1027/1864-1105/a000525)
 
 * Lim, S., **Schmälzle, R.**, & Bente, G. (2026). **Examining speakers' subjective and bio-behavioral responses to audience-induced social-evaluative threat via immersive VR.** *Scientific Reports, 16(1), 7633.* [[PDF]](/papers/lim2026examining.pdf) [[CODE]](https://github.com/nomcomm/speaker_responses_audience) [[DOI]](https://doi.org/10.1038/s41598-026-38915-8)
 
